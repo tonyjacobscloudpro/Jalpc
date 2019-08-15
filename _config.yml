@@ -11,9 +11,9 @@ img_path: /Jalpc/static/assets/img/blog  # url should be '/homepage/static/asset
 
 # author -- index page "about me" section
 author:  # change following line to your infomation.
-  name: Tony Jacobs (Big Data Jedi Master) # Be used at blog posts' author.
-  first_name: Tony  # Be used at index page about me section.
-  last_name: Jacobs  # Be used at index page about me section.
+  name: Tony Jacobs # Be used at blog posts' author.
+  first_name: Tony Jacobs  # Be used at index page about me section.
+  last_name:  (Big Data Jedi Master) # Be used at index page about me section.
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
   github_username: tonyjacobscloudpro  # Leave blank if you don't have now
   linkedin_id: tony-jacobs-696559184 # Leave blank if you don't have now
