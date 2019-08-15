@@ -37,8 +37,36 @@
     i18n: company_c_desc
   date:
     detail: Aug. 2014
-    i18n: company_b_date
+    i18n: company_c_date
   job:
     detail: BI Stack (SSIS,SSAS,SSRS) Datawarehouse Engineer
     i18n: company_c_job
+  icon: fa-plus-square
+  
+  - name:
+    detail: Amherst Holdings - Data Architect
+    i18n: company_d
+  desc:
+    detail:  Requirements gathering, data modeling (conceptual, logical, physical), data profiling, datawarehousing, AWS, RDS (SQL Server), S3, Postgres, FME, SSIS, SSRS(Mobile Reports), 
+    i18n: company_d_desc
+  date:
+    detail: Jan. 2013
+    i18n: company_d_date
+  job:
+    detail: Data Architect / BI Stack (SSIS,SSAS,SSRS) Datawarehouse Engineer
+    i18n: company_d_job
+  icon: fa-plus-square
+  
+    - name:
+    detail: IBM - Consultant
+    i18n: company_e
+  desc:
+    detail:  Requirements gathering, data modeling (conceptual, logical, physical), data profiling, datawarehousing, AWS, RDS (SQL Server), S3, Postgres, FME, SSIS, SSRS(Mobile Reports), 
+    i18n: company_e_desc
+  date:
+    detail: Jan. 2012
+    i18n: company_e_date
+  job:
+    detail: Information Management Specialist (Consultant, Initiate MDM - Master Data Management)
+    i18n: company_e_job
   icon: fa-plus-square
