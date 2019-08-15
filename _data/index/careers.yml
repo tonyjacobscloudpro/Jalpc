@@ -56,3 +56,17 @@
     detail: Data Architect/Data Analyst
     i18n: company_d_job
   icon: fa-plus-square
+  
+  - name:
+    detail: IBM - Consultant
+    i18n: company_e
+  desc:
+    detail:  Requirements gathering, data modeling (conceptual, logical, physical), data profiling, datawarehousing, AWS, RDS (SQL Server), S3, Postgres, FME, SSIS, SSRS(Mobile Reports), 
+    i18n: company_e_desc
+  date:
+    detail: Jan. 2012
+    i18n: company_3_date
+  job:
+    detail: Information Management Specialist (Initiate MDM- Master Data)
+    i18n: company_e_job
+  icon: fa-plus-square
