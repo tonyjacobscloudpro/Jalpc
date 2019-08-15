@@ -28,3 +28,17 @@
     detail: Data Engineer / Architect / Business Intelligence / Data Firefighter
     i18n: company_b_job
   icon: fa-plus-square
+
+- name:
+    detail: EZCorp - Datawarehouse Engineer
+    i18n: company_c
+  desc:
+    detail:  Requirements gathering, data modeling (conceptual, logical, physical), data profiling, datawarehousing, AWS, RDS (SQL Server), S3, Postgres, FME, SSIS, SSRS(Mobile Reports), 
+    i18n: company_c_desc
+  date:
+    detail: Aug. 2014
+    i18n: company_b_date
+  job:
+    detail: BI Stack (SSIS,SSAS,SSRS) Datawarehouse Engineer
+    i18n: company_c_job
+  icon: fa-plus-square
