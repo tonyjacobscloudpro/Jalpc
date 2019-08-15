@@ -42,17 +42,3 @@
     detail: BI Stack (SSIS,SSAS,SSRS) Datawarehouse Engineer
     i18n: company_c_job
   icon: fa-plus-square
-  
- - name:
-    detail: Amherst Holdings - Data Architect
-    i18n: company_d
-  desc:
-    detail:  Requirements gathering, data modeling (conceptual, logical, physical), data profiling, datawarehousing, AWS, RDS (SQL Server), S3, Postgres, FME, SSIS, SSRS(Mobile Reports), 
-    i18n: company_d_desc
-  date:
-    detail: Jan. 2013
-    i18n: company_d_date
-  job:
-    detail: Data Architect / BI Stack (SSIS,SSAS,SSRS) Datawarehouse Engineer
-    i18n: company_d_job
-  icon: fa-plus-square
