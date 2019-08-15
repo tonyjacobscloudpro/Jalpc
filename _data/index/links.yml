@@ -1,18 +1,18 @@
 # links section data
-- last_name: Name 1
-  first_name:
-  desc: CEO
-  website: https://www.google.com
-  email: ceo@google.com
-#
-# last_name: Donate
- # first_name: Jalpc
-  # desc: Support Jalpc
-  # website: http://www.jarrekk.com/donate/
-  # email: me@jarrekk.com
+- last_name: Amazon Web Services (AWS)
+  first_name: 
+  desc: AWS Cloud Information
+  website: https://aws.amazon.com/
+  email: tjacobs.datascience@gmail.com
 
-- last_name: Jacobs
-  first_name: Tony2
-  desc: COO
-  website: https://github.com
-  email: coo@google.com
+- last_name: Google Cloud Platform (GCP)
+  first_name: 
+  desc: GCP Cloud Information
+  website: https://cloud.google.com/
+  email: tjacobs.datascience@gmail.com
+
+- last_name: Microsoft Azure
+  first_name: 
+  desc: Microsoft Azure Information
+  website: https://azure.microsoft.com/en-us/
+  email: tjacobs.datascience@gmail.com
