@@ -1,7 +1,7 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: Tony Jacobs - Big Data Consultant
+title: Tony Jacobs - Big Data Cloud Consultant
 description: Tony Jacobs test
 keywords: Jack,Jalpc,blog,Jekyll,github,gh-pages
 baseurl:  /Jalpc # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
@@ -11,7 +11,7 @@ img_path: /Jalpc/static/assets/img/blog  # url should be '/homepage/static/asset
 
 # author -- index page "about me" section
 author:  # change following line to your infomation.
-  name: Tony Jacobs # Be used at blog posts' author.
+  name: Tony Jacobs (Big Data Jedi Master) # Be used at blog posts' author.
   first_name: Tony  # Be used at index page about me section.
   last_name: Jacobs  # Be used at index page about me section.
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
