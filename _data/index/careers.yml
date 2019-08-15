@@ -43,7 +43,7 @@
     i18n: company_c_job
   icon: fa-plus-square
   
-  - name:
+ - name:
     detail: Amherst Holdings - Data Architect
     i18n: company_d
   desc:
@@ -57,7 +57,7 @@
     i18n: company_d_job
   icon: fa-plus-square
   
-    - name:
+  - name:
     detail: IBM - Consultant
     i18n: company_e
   desc:
