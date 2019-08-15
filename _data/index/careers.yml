@@ -65,8 +65,22 @@
     i18n: company_e_desc
   date:
     detail: Jan. 2012
-    i18n: company_3_date
+    i18n: company_e_date
   job:
     detail: Information Management Specialist (Initiate MDM- Master Data)
     i18n: company_e_job
+  icon: fa-plus-square
+  
+- name:
+    detail: Advanced Micro Devices (AMD) - BI Consultant
+    i18n: company_f
+  desc:
+    detail:  Requirements gathering, data modeling (conceptual, logical, physical), data profiling, datawarehousing, AWS, RDS (SQL Server), S3, Postgres, FME, SSIS, SSRS(Mobile Reports), 
+    i18n: company_f_desc
+  date:
+    detail: Aug. 2011
+    i18n: company_f_date
+  job:
+    detail: Business Intelligence Architect (MSFT BI Stack)
+    i18n: company_f_job
   icon: fa-plus-square
