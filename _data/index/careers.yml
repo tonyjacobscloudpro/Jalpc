@@ -3,9 +3,9 @@
 - name:
     detail: DrillingInfo - Achievements
     i18n: company_a
-  desc: Selectively chosen to join the consulting group and played a pivotal role in architecting cloud offerings & solutions that immediately 
+  desc: 
+    detail: Selectively chosen to join the consulting group and played a pivotal role in architecting cloud offerings & solutions that immediately 
   impacted sales, subscriptions, and cloud interest within the organization.
-    detail: 
     i18n: company_a_desc
   date:
     detail: Oct. 2017
