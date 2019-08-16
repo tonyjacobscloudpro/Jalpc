@@ -1,10 +1,5 @@
 # skills section data
 
-label: Amazon Web Services (AWS)
-id : cs
-aspects: AWS, GCP, Azure, Datawarehouse, Machine Learning, Python, SQL
-percentage: 85, 85, 70, 95, 70, 70, 95
-
 label: Ability
 id : cs2
 aspects: AWS, GCP, Azure, Datawarehouse, Machine Learning, Python, SQL
