@@ -5,8 +5,8 @@
     i18n: company_a
   desc: 
     detail: Provide big data advice, recommendatiions, proto-types, and database migration assistance for high-value customer 
-    data feeds on the cloud.  I'm familiar with various big data architectures, etl methodologies, and recommended development
-    practices to support product offerings within AWS, GCP, and Azure cloud platforms. 
+            data feeds on the cloud.  I'm familiar with various big data architectures, etl methodologies, and recommended development
+            practices to support product offerings within AWS, GCP, and Azure cloud platforms. 
     i18n: company_a_desc
   date:
     detail: Oct. 2017
