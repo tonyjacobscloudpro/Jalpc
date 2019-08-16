@@ -3,6 +3,9 @@
   href: /blog/
 
 # edit following lines to custom your blog page, make sure name is the same as href but capitalized first letter(except HTML)
+- name: Big Data
+  href: /bigdata/
+  
 - name: AWS
   href: /aws/
 
@@ -11,15 +14,21 @@
 
 - name: Azure
   href: /azure/
-
-- name: Big Data
-  href: /bigdata/
-
-#- name: Mac
-#  href: /mac/
-
+  
 - name: Machine Learning
   href: /ml/
+  
+- name: Artificial Intelligence
+  href: /ai/
+
+- name: Analytics
+  href: /analytics/
+ 
+- name: Visualizations
+  href: /ai/
+  
+#- name: Mac
+#  href: /mac/
 
 # Don't display donation page: change donation to off at file '_config.yml'
 # - name: Donate
