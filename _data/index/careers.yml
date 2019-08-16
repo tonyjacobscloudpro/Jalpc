@@ -4,7 +4,7 @@
     detail: DrillingInfo ~ Current
     i18n: company_a
   desc: 
-    detail: Provide big data advice, recommendatiions, proto-types, and database migration assistance for high-value customer 
+    detail: Provide big data advice, recommendations, proto-types, and database migration assistance for high-value customer 
             data feeds on the cloud.  I'm familiar with various big data architectures, etl methodologies, and recommended development
             practices to support product offerings within AWS, GCP, and Azure cloud platforms. 
     i18n: company_a_desc
@@ -22,8 +22,8 @@
     i18n: company_b
   desc:
     detail: Selectively chosen to join the prestigious DI Consulting team
-            and played a pivotal role in delivering high-value client solutions. Most impactful achievement was architecting
-            DrillingInfo's very first Cloud DB Offering (DIBI) which significantly
+            and played a pivotal role in delivering high-value client solutions. Most impactful and memorable achievement 
+            was the opportunity to architect and build DrillingInfo's very first Cloud DB Offering (DIBI) which significantly
             impacted sales, subscriptions, and cloud interest within the first few months of release.
     i18n: company_b_desc
   date:
