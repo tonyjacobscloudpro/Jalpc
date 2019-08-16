@@ -1,7 +1,7 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: DrillingInfo ~ Current
+    detail: DrillingInfo    ~ Current ~
     i18n: company_a
   desc: 
     detail: Provide big data advice, recommendations, proto-types, and database migration assistance for high-value customer 
