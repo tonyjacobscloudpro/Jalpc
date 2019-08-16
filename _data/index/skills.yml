@@ -2,10 +2,6 @@
 
 label: Ability
 id : cs
-aspects: AWS, GCP, Azure, Datawarehouse, Machine Learning, Python, SQL
-percentage: 85, 85, 70, 95, 70, 70, 95
+aspects: AWS, GCP, Azure
+percentage: 85, 85, 70
 
-label: Ability
-id : cs2
-aspects: AWS, GCP, Azure, Datawarehouse, Machine Learning, Python, test
-percentage: 85, 85, 70, 95, 70, 70, 95
