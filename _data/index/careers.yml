@@ -1,12 +1,13 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: DrillingInfo - Achievements
+    detail: DrillingInfo - Accomplishments
     i18n: company_a
   desc: 
     detail: Selectively chosen to join the prestigious DI Consulting team
-            and played a pivotal role in delivering high-value client solutions. Most proud of architecting
-            DrillingInfo's very first Cloud DB Offering (DIBI) on AWS which immediately impacted sales, subscriptions, and cloud interest within the organization.
+            and played a pivotal role in delivering high-value client solutions. Most impactful achievement was architecting
+            DrillingInfo's very first Cloud DB Offering (DIBI) which significantly
+            impacted sales, subscriptions, and cloud interest within the first few months of release.
         
     i18n: company_a_desc
   date:
