@@ -4,7 +4,7 @@
     detail: DrillingInfo - Big Data Cloud Consultant
     i18n: company_a
   desc: 
-    detail: |
+    detail: >- |-
                 1. Requirements gathering   
                 2. Data modeling (conceptual, logical, physical)
                 3. Data profiling, datawarehousing, AWS, RDS (SQL Server), S3, Postgres, FME, SSIS, SSRS(Mobile Reports), 
