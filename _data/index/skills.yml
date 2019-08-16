@@ -2,6 +2,6 @@
 
 label: Ability
 id : cs
-aspects: Collection, Ingestion, Storage, Processing, Visualization, AWS, GCP, Azure, Machine Learning, Datawarehouse
-percentage: 95, 95, 95, 95, 95, 90, 90, 70, 80, 99
+aspects: AWS, Collection, Ingestion, GCP, Storage, Processing, Visualization, Azure, Machine Learning, Datawarehousing
+percentage: 85, 88, 95, 90, 95, 80, 85, 70, 80, 95
 
