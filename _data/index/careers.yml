@@ -4,13 +4,13 @@
     detail: DrillingInfo - Achievments
     i18n: company_a
   desc: 
-    detail:  (1) Architected DrillingInfo's very first AWS cloud database offering (DIBI Cloud DB) which immediately resulted in 
+    detail:  ( 1) Architected DrillingInfo's very first AWS cloud database offering (DIBI Cloud DB) which immediately resulted in 
                 a significant increase in sales, increase in high-value client subscriptions/renewals, as well as a snowball effect of interest into
-                the potential of DrillingInfo's Cloud strategy and offerings after the first few months of release.   (2) Played pivotal role to backfill
+                the potential of  DrillingInfo's Cloud strategy and offerings after the first few months of release. ( 2 ) Played pivotal role to backfill
                 over 10 years of DrillingInfo production data (old school ETL files from the early 1980s) to satisfy a high value customer's request
                 which had been distressing the organization for a couple of years due to the fact that it was a major requirement requsted by the customer
                 for renewal.  Many failed, but I did it in 3 days.  The client renewed and I saved the company from potentially losing a >$2,000,000 
-                contract...all because we couldn't get the data they wanted. (3)
+                contract...all because we couldn't get the data they wanted. ( 3 )
     i18n: company_a_desc
   date:
     detail: Oct. 2017
