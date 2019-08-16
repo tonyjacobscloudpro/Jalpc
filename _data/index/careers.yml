@@ -37,7 +37,8 @@
     detail: EZCorp - Datawarehouse Engineer
     i18n: company_c
   desc:
-    detail: SQL Server Database Architecture and Design (OLTP/OLAP) and SQL Server Database Programming and Development to support multiple traditional and tabular SSAS cubes.
+    detail: SQL Server Database Architecture and Design (OLTP/OLAP) and SQL Server Database Programming and Development 
+            to support multiple traditional and tabular SSAS cubes using services from the Microsoft BI Stack (MDS,SSIS,SSRS).
     i18n: company_c_desc
   date:
     detail: Aug. 2014
@@ -51,7 +52,8 @@
     detail: Amherst Holdings - Data Architect
     i18n: company_d
   desc:
-    detail:  Requirements gathering, data modeling (conceptual, logical, physical), data profiling, datawarehousing, AWS, RDS (SQL Server), S3, Postgres, FME, SSIS, SSRS(Mobile Reports), 
+    detail: Architected datawarehouse to aggregate home loan data from CoreLogic to resolve the need to purchase pre-aggregated data from 3rd parties resulting in significant cost savings.
+            
     i18n: company_d_desc
   date:
     detail: Jan. 2013
