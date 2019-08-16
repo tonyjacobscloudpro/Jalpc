@@ -5,7 +5,8 @@
     i18n: company_a
   desc:
     detail: 
-            1. Requirements gathering\ 2. Data modeling (conceptual, logical, physical), data profiling, datawarehousing, AWS, RDS (SQL Server), S3, Postgres, FME, SSIS, SSRS(Mobile Reports), 
+            1. Requirements gathering  
+            2. Data modeling (conceptual, logical, physical), data profiling, datawarehousing, AWS, RDS (SQL Server), S3, Postgres, FME, SSIS, SSRS(Mobile Reports), 
     i18n: company_a_desc
   date:
     detail: Oct. 2017
