@@ -1,10 +1,12 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: DrillingInfo - Consultant ~ Current
+    detail: DrillingInfo ~ Current
     i18n: company_a
   desc: 
-    detail: Provide recommendatiions, proto-types, and database migration assistance for high-value customer data feeds on the cloud.        
+    detail: Provide big data advice, recommendatiions, proto-types, and database migration assistance for high-value customer 
+    data feeds on the cloud.  I'm familiar with various big data architectures, etl methodologies, and recommended development
+    practices to support product offerings within AWS, GCP, and Azure cloud platforms. 
     i18n: company_a_desc
   date:
     detail: Oct. 2017
