@@ -41,7 +41,7 @@
             to support multiple traditional and tabular SSAS cubes using services from the Microsoft BI Stack (MDS,SSIS,SSRS).
     i18n: company_c_desc
   date:
-    detail: Aug. 2014
+    detail: Jun. 2013
     i18n: company_c_date
   job:
     detail: BI Stack (SSIS,SSAS,SSRS) Datawarehouse Engineer
@@ -67,7 +67,7 @@
     detail: IBM - Consultant
     i18n: company_e
   desc:
-    detail:  Requirements gathering, data modeling (conceptual, logical, physical), data profiling, datawarehousing, AWS, RDS (SQL Server), S3, Postgres, FME, SSIS, SSRS(Mobile Reports), 
+    detail:  Performed MDM Implementations for high-value clients across the world.  Configured Initiate MDM member data models, data standardization algorithms, bucketing, data derivation, weight generation, &  bulk cross matching.  Instance/Hub/Client Tools creation and deployment. 
     i18n: company_e_desc
   date:
     detail: Jan. 2012
