@@ -1,14 +1,10 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: DrillingInfo - Major Accomplishments
+    detail: DrillingInfo - Consultant ~ Current
     i18n: company_a
   desc: 
-    detail: Selectively chosen to join the prestigious DI Consulting team
-            and played a pivotal role in delivering high-value client solutions. Most impactful achievement was architecting
-            DrillingInfo's very first Cloud DB Offering (DIBI) which significantly
-            impacted sales, subscriptions, and cloud interest within the first few months of release.
-        
+    detail: Provide recommendatiions, proto-types, and database migration assistance for high-value customer data feeds on the cloud.        
     i18n: company_a_desc
   date:
     detail: Oct. 2017
@@ -20,10 +16,13 @@
   present: true
 
 - name:
-    detail: DrillingInfo - Sr.Data Engineer
+    detail: DrillingInfo - Major Accomplishments
     i18n: company_b
   desc:
-    detail:  Requirements gathering, data modeling (conceptual, logical, physical), data profiling, datawarehousing, AWS, RDS (SQL Server), S3, Postgres, FME, SSIS, SSRS(Mobile Reports), 
+    detail: Selectively chosen to join the prestigious DI Consulting team
+            and played a pivotal role in delivering high-value client solutions. Most impactful achievement was architecting
+            DrillingInfo's very first Cloud DB Offering (DIBI) which significantly
+            impacted sales, subscriptions, and cloud interest within the first few months of release.
     i18n: company_b_desc
   date:
     detail: Aug. 2014
