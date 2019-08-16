@@ -37,7 +37,7 @@
     detail: EZCorp - Datawarehouse Engineer
     i18n: company_c
   desc:
-    detail:  Requirements gathering, data modeling (conceptual, logical, physical), data profiling, datawarehousing, AWS, RDS (SQL Server), S3, Postgres, FME, SSIS, SSRS(Mobile Reports), 
+    detail: SQL Server Database Architecture and Design (OLTP/OLAP) and SQL Server Database Programming and Development to support multiple traditional and tabular SSAS cubes.
     i18n: company_c_desc
   date:
     detail: Aug. 2014
