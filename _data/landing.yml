@@ -20,7 +20,7 @@
   
  - id: skills_aws
   i18n: nav.skills
-  name: Skills_aws
+  name: Skills
   tpl: skills_aws.html
   css: team
 
