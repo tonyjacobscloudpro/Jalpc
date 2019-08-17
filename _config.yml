@@ -13,7 +13,7 @@ img_path: /Jalpc/static/assets/img/blog  # url should be '/homepage/static/asset
 author:  # change following line to your infomation.
   name: Tony Jacobs # Be used at blog posts' author.
   first_name: Tony Jacobs  # Be used at index page about me section.
-  last_name: Consultant # Be used at index page about me section.
+  last_name: Data Jedi # Be used at index page about me section.
   avatar: /static/assets/img/landing/tjacobs.gif  # upload your avatar at directory and edit it.
   github_username: tonyjacobscloudpro  # Leave blank if you don't have now
   linkedin_id: tony-jacobs-696559184 # Leave blank if you don't have now
