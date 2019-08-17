@@ -2,5 +2,6 @@
 
 label: Ability
 id : cs3
-aspects: TEST444, Collection, Ingestion, GCP, Storage, Processing, Visualization, Azure, Machine Learning, Data Warehousing
-percentage: 85, 88, 95, 90, 95, 80, 85, 70, 80, 95
+aspects: BigQuery, Bigtable, Dataflow, Dataproc, Pub/Sub, Data Fusion, Composer, Catalog, Data Studio
+          , Dataprep, Google Sheets, Data Transfer, Cloud Storage, Datalab
+percentage: 85, 88, 95, 90, 95, 80, 85, 70, 80, 95, 80, 85, 70, 80, 95
