@@ -14,7 +14,7 @@ author:  # change following line to your infomation.
   name: Tony Jacobs # Be used at blog posts' author.
   first_name: Tony Jacobs  # Be used at index page about me section.
   last_name:  Data Jedi # Be used at index page about me section.
-  avatar: /static/assets/img/landing/avatar_cloudtech.jpg  # upload your avatar at directory and edit it.
+  avatar: /static/assets/img/landing/tjacobs.jpg  # upload your avatar at directory and edit it.
   github_username: tonyjacobscloudpro  # Leave blank if you don't have now
   linkedin_id: tony-jacobs-696559184 # Leave blank if you don't have now
   facebook_username:   # Leave blank if you don't have now
