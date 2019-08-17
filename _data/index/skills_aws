@@ -1,6 +1,0 @@
-# skills section data
-
-label: Ability
-id : cs
-aspects: AWS, Collection, Ingestion, GCP, Storage, Processing, Visualization, Azure, Machine Learning, Data Warehousing
-percentage: 85, 88, 95, 90, 95, 80, 85, 70, 80, 95
