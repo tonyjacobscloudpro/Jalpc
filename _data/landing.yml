@@ -18,19 +18,19 @@
   #tpl: skills.html
   #css: team
   
-- id: skills
+- id: skills_aws
   i18n: nav.skills
   name: AWS Skills
   tpl: skills_aws.html
   css: team
   
-- id: skills
+- id: skills_gcp
   i18n: nav.skills
   name: GCP Skills
   tpl: skills_gcp.html
   css: team
   
-- id: skills
+- id: skills_azure
   i18n: nav.skills
   name: Azure Skills
   tpl: skills_azure.html
