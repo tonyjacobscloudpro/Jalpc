@@ -81,7 +81,9 @@
     detail: Advanced Micro Devices (AMD) - BI Consultant
     i18n: company_f
   desc:
-    detail:  Requirements gathering, data modeling (conceptual, logical, physical), data profiling, datawarehousing, AWS, RDS (SQL Server), S3, Postgres, FME, SSIS, SSRS(Mobile Reports), 
+    detail: Sr. SSAS Cube developer. Performed requirements gathering, data profiling, data modeling (conceptual, logical, physical)
+            , and SSIS development to support fact and dimensional supply chain data for cube consumption.
+    
     i18n: company_f_desc
   date:
     detail: Aug. 2011
