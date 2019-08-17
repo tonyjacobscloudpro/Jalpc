@@ -3,4 +3,4 @@
 label: Ability
 id : cs2
 aspects: RDBMS, CosmosDB, DMS, Azure DW, Databricks, HDInsight, Machine Learning, Stream Analytics, DL Store/Analytics, Data Catalog/Factory
-percentage: 85, 88, 95, 90, 95, 80, 85, 70, 80, 95, 85
+percentage: 85, 88, 95, 90, 95, 80, 85, 70, 80, 95
