@@ -18,7 +18,7 @@
   tpl: skills.html
   css: team
   
- - id: skills_aws
+- id: skills_aws
   i18n: nav.skills
   name: Skills
   tpl: skills_aws.html
