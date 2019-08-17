@@ -12,22 +12,28 @@
   tpl: career.html
   css: timeline
 
-- id: skills
-  i18n: nav.skills
-  name: AWS Skills
-  tpl: skills.html
-  css: team
+#- id: skills
+ # i18n: nav.skills
+  #name: AWS Skills
+  #tpl: skills.html
+  #css: team
   
 - id: skills
   i18n: nav.skills
-  name: GCP Skills
+  name: AWS Skills
   tpl: skills_aws.html
   css: team
   
 - id: skills
   i18n: nav.skills
+  name: GCP Skills
+  tpl: skills_gcp.html
+  css: team
+  
+- id: skills
+  i18n: nav.skills
   name: Azure Skills
-  tpl: skills.html
+  tpl: skills_azure.html
   css: team
 
 - id: projects
