@@ -2,5 +2,6 @@
 
 label: Ability
 id : cs2
-aspects: TESTazure, Collection, Ingestion, GCP, Storage, Processing, Visualization, Azure, Machine Learning, Data Warehousing
-percentage: 85, 88, 95, 90, 95, 80, 85, 70, 80, 95
+aspects: SQLServerVM, SQL Server, MySQL, PostgreSQL, CosmosDB, Database Migration Service, Azure Datawarehouse, Databricks, HDInsight,
+          Machine Learning, Stream Analytics, Data Lake Store, Data Lake Analytics, Data Catalog, Data Factory
+percentage: 85, 88, 95, 90, 95, 80, 85, 70, 80, 95, 85, 88, 95, 90, 95
