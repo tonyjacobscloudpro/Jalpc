@@ -3,5 +3,5 @@
 label: Ability
 id : cs2
 aspects: RDBMS, CosmosDB, DB Migration Service, Azure Datawarehouse, Databricks, HDInsight,
-          Machine Learning, Stream Analytics, Data Lake Store & Analytics, Data Catalog, Data Factory
+          ML, Stream Analytics, Data Lake Store/Analytics, Data Catalog/Factory
 percentage: 85, 88, 95, 90, 95, 80, 85, 70, 80, 95, 85
