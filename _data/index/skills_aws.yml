@@ -4,4 +4,4 @@ label: Ability
 id : cs1
 aspects: SageMaker, S3, EC2, EMR, Route53, ElasticSearch, Kinesis Firehouse, Kinesis Streams, Kinesis Analytics, Redshift,
             Machine Learning, DynamoDB
-percentage: 85, 88, 95, 90, 95, 80, 85, 70, 80, 95, 44, 55, 55
+percentage: 85, 88, 95, 90, 95, 80, 85, 70, 80, 95, 88, 87
