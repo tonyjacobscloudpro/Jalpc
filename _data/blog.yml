@@ -3,8 +3,6 @@
   href: /blog/
 
 # edit following lines to custom your blog page, make sure name is the same as href but capitalized first letter(except HTML)
-- name: Big Data
-  href: /bigdata/
   
 - name: AWS
   href: /aws/
@@ -15,12 +13,6 @@
 - name: Azure
   href: /azure/
   
-- name: Machine Learning
-  href: /ml/
-  
-- name: AI
-  href: /ai/
- 
 #- name: Mac
 #  href: /mac/
 
