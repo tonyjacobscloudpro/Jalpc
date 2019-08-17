@@ -14,13 +14,19 @@
 
 - id: skills
   i18n: nav.skills
-  name: AWS Skill
+  name: AWS Skills
   tpl: skills.html
   css: team
   
 - id: skills
   i18n: nav.skills
-  name: GCP Skill
+  name: GCP Skills
+  tpl: skills.html
+  css: team
+  
+  - id: skills
+  i18n: nav.skills
+  name: Azure Skills
   tpl: skills.html
   css: team
 
