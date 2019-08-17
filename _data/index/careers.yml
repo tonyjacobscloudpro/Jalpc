@@ -4,9 +4,9 @@
     detail: Big Data Oil & Gas Consultant at DrillingInfo
     i18n: company_a
   desc: 
-    detail: Provide big data advice, recommendations, proto-types, and database migration assistance for high-value customer 
+    detail: Currently provide big data advice, recommendations, proto-types, and database migration assistance for high-value customer 
             data feeds on the cloud.  I'm familiar with various big data architectures, etl methodologies, and various devops
-            practices to support product offerings within AWS, GCP, and Azure cloud platforms. 
+            practices in support of activities within AWS, GCP, and Azure cloud platforms. 
     i18n: company_a_desc
   date:
     detail: Oct. 2017
@@ -37,8 +37,8 @@
     detail: EZCorp - Datawarehouse Engineer
     i18n: company_c
   desc:
-    detail: SQL Server Database Architecture and Design (OLTP/OLAP) and SQL Server Database Programming and Development 
-            to support multiple traditional and tabular SSAS cubes using services from the Microsoft BI Stack (MDS,SSIS,SSRS).
+    detail: SQL Server Database Architecture and Design (OLTP/OLAP) engineer.  Front lines with SQL Server Database Programming 
+            and Development to support multiple SSAS cubes primarily within the Microsoft BI Stack (SSIS,SSAS,SSRS,MDS).
     i18n: company_c_desc
   date:
     detail: Jun. 2013
