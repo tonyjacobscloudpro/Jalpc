@@ -24,7 +24,7 @@
   tpl: skills.html
   css: team
   
- - id: skills
+- id: skills
   i18n: nav.skills
   name: Azure Skills
   tpl: skills.html
