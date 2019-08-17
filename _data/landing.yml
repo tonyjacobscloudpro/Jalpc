@@ -12,11 +12,11 @@
   tpl: career.html
   css: timeline
 
-#- id: skills
- # i18n: nav.skills
-  #name: AWS Skills
-  #tpl: skills.html
-  #css: team
+- id: skills_bd
+  i18n: nav.skills_bd
+  name: Big Data Cloud Platform Skills
+  tpl: skills_bd.html
+  css: team
   
 - id: skills_aws
   i18n: nav.skills_aws
