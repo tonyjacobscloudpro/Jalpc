@@ -2,5 +2,6 @@
 
 label: Ability
 id : cs1
-aspects: TEST, Collection, Ingestion, GCP, Storage, Processing, Visualization, Azure, Machine Learning, Data Warehousing
-percentage: 85, 88, 95, 90, 95, 80, 85, 70, 80, 95
+aspects: SageMaker, S3, DynamoDB, EMR, Route53, ElasticSearch, Kinesis Firehouse, Kinesis Streams, Kinesis Analytics, Redshift,
+            Machine Learning, EC2
+percentage: 85, 88, 95, 90, 95, 80, 85, 70, 80, 95, 44, 55, 55
