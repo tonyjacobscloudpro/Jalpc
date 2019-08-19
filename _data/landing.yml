@@ -14,7 +14,7 @@
 
 - id: skills_cloudcompare
   i18n: nav.skills_cloudcompare
-  name: Platform Skills Comparison
+  name: Cloud Platform Skills Comparison
   tpl: skills_cloudcompare.html
   css: team
   
