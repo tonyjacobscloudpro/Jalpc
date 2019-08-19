@@ -1,45 +1,31 @@
-<div class="container">
-    <div class="row">
-        <div class="col-lg-12 text-center" id="i18_skills">
-            <div class="navy-line"></div>
-            <h1><span data-i18n="skills.my_skills">Platform Skills Comparison</span></h1>
-        </div>
-    </div>
-    <div class="row features-block">
-        <div class="wow zoomIn col-lg-6 col-lg-offset-3">
-            <canvas id="{{ site.data.index.skills_cloudcompare.id }}" height="500" width="500"></canvas>
-        </div>
-        <div class="col-lg-1"></div>
-        <script>
-        var ctx = document.getElementById("{{ site.data.index.skills_cloudcompare.id }}");
-        var data = {
-            labels: "{{ site.data.index.skills_cloudcompare.aspects }}".split(","),
-            datasets: [{
-                label: "{{ site.data.index.skills_cloudcompare.label }}",
-                backgroundColor: "rgba(179,181,198,0.2)",
-                borderColor: "#3385FF",
-                pointBackgroundColor: "#3385FF",
-                pointBorderColor: "#fff",
-                pointHoverBackgroundColor: "#3385FF",
-                pointHoverBorderColor: "#3385FF",
-                data: [{{ site.data.index.skills_cloudcompare.percentage }}]
-                }]
-        };
-        var myRadarChart = new Chart(ctx, {
-            type: 'radar',
-            data: data,
-            options: {
-                scale: {
-                    responsive: true,
-                    ticks: {min: 0, max: 100},
-                    lineArc: false,
-                    pointLabels: {fontSize: 12},
-                },
-                legend: {display: false},
-            }
-        });
-       
-        </script>
-    </div>   
-    
-</div>
+var color = ["rgba(241,28,39,1)", //red
+            "rgba(28,145,241,1)",//blue
+            "rgba(231,221,28,1)", //yellow
+            "rgba(38,231,28,1)", //green
+            "rgba(28,231,221,1)", //cyan
+            "rgba(231,228,211,1)", //pink
+            "rgba(3,1,3,1)", // black
+            "rgba(236,176,179,1)", //light pink
+            "rgba(239,107,51,1)", //orange
+            "rgba(157,51,239,1)", //violet
+            "rgba(16,82,248,1)", //royalblue
+            "rgba(241,28,39,1)"];
+
+    ChartData = {}; 
+    ChartData.labels = []; 
+    ChartData.datasets = []; 
+    for (index = 0; index <Number_of_Video_Names; index++) {
+            temp = [];
+        ChartData.datasets.push({});
+        dataset = ChartData.datasets[index]
+        dataset.backgroundColor = color[index],
+        dataset.borderColor = color[index],
+        dataset.label =  [label1,label2,label3]; //labels
+        dataset.data = []; //data on Y-Axis
+        ChartData.datasets[index].data = [10,20,30,40,50]; //data
+    } 
+                                                  
+var RadarGraph = new Chart(ctx, {
+        type: 'radar',
+        data: Chartdata, 
+    });
