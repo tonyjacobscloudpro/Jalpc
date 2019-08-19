@@ -13,16 +13,16 @@
         <script>
         var ctx = document.getElementById("{{ site.data.index.skills_aws.id }}");
         var data = {
-            labels: "{{ site.data.index.skills_gcp.aspects }}".split(","),
+            labels: "{{ site.data.index.skills_aws.aspects }}".split(","),
             datasets: [{
-                label: "{{ site.data.index.skills_gcp.label }}",
+                label: "{{ site.data.index.skills_aws.label }}",
                 backgroundColor: "rgba(179,181,198,0.2)",
                 borderColor: "#3385FF",
                 pointBackgroundColor: "#3385FF",
                 pointBorderColor: "#fff",
                 pointHoverBackgroundColor: "#3385FF",
                 pointHoverBorderColor: "#3385FF",
-                data: [{{ site.data.index.skills_gcp.percentage }}]
+                data: [{{ site.data.index.skills_aws.percentage }}]
                 }]
         };
         var myRadarChart = new Chart(ctx, {
