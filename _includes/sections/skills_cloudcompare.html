@@ -1,31 +1,5 @@
-var color = ["rgba(241,28,39,1)", //red
-            "rgba(28,145,241,1)",//blue
-            "rgba(231,221,28,1)", //yellow
-            "rgba(38,231,28,1)", //green
-            "rgba(28,231,221,1)", //cyan
-            "rgba(231,228,211,1)", //pink
-            "rgba(3,1,3,1)", // black
-            "rgba(236,176,179,1)", //light pink
-            "rgba(239,107,51,1)", //orange
-            "rgba(157,51,239,1)", //violet
-            "rgba(16,82,248,1)", //royalblue
-            "rgba(241,28,39,1)"];
-
-    ChartData = {}; 
-    ChartData.labels = []; 
-    ChartData.datasets = []; 
-    for (index = 0; index <Number_of_Video_Names; index++) {
-            temp = [];
-        ChartData.datasets.push({});
-        dataset = ChartData.datasets[index]
-        dataset.backgroundColor = color[index],
-        dataset.borderColor = color[index],
-        dataset.label =  [label1,label2,label3]; //labels
-        dataset.data = []; //data on Y-Axis
-        ChartData.datasets[index].data = [10,20,30,40,50]; //data
-    } 
-                                                  
-var RadarGraph = new Chart(ctx, {
-        type: 'radar',
-        data: Chartdata, 
-    });
+var myRadarChart = new Chart(ctx, {
+    type: 'radar',
+    data: data,
+    options: options
+});
