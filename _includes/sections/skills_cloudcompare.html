@@ -1,5 +1,17 @@
-<canvas id="bar-chart" width="800" height="450"></canvas>
-// Bar chart
+<div class="container">
+    <div class="row">
+        <div class="col-lg-12 text-center" id="i18_skills">
+            <div class="navy-line"></div>
+            <h1><span data-i18n="skills.my_skills">GCP Big Data Skills</span></h1>
+        </div>
+    </div>
+    <div class="row features-block">
+        <div class="wow zoomIn col-lg-6 col-lg-offset-3">
+            <canvas id="{{ site.data.index.skills_gcp.id }}" height="500" width="500"></canvas>
+        </div>
+        <div class="col-lg-1"></div>
+        <script>
+       // Bar chart
 new Chart(document.getElementById("bar-chart"), {
     type: 'bar',
     data: {
@@ -20,3 +32,8 @@ new Chart(document.getElementById("bar-chart"), {
       }
     }
 });
+       
+        </script>
+    </div>   
+    
+</div>
