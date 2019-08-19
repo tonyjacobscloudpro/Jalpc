@@ -1,6 +1,6 @@
 # skills section data
 
 label: Ability
-id : cs5
+id : cs4
 aspects: AWS, GCP, Azure
 percentage: 85, 88, 95
