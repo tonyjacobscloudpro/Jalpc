@@ -12,12 +12,6 @@
   tpl: career.html
   css: timeline
 
-- id: skills_cloudcompare
-  i18n: nav.skills_cloudcompare
-  name: Cloud Skills 
-  tpl: skills_cloudcompare.html
-  css: team
-  
 - id: skills_aws
   i18n: nav.skills_aws
   name: AWS Skills
