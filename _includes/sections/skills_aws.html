@@ -13,9 +13,9 @@
         <script>
         var ctx = document.getElementById("{{ site.data.index.skills_aws.id }}");
         var data = {
-            labels: "1,2,3,4"
+            labels: "{{ site.data.index.skills_gcp.aspects }}".split(","),
             datasets: [{
-                label: "{{ site.data.index.skills_aws.label }}",
+                label: "{{ site.data.index.skills_gcp.label }}",
                 backgroundColor: "rgba(179,181,198,0.2)",
                 borderColor: "#3385FF",
                 pointBackgroundColor: "#3385FF",
