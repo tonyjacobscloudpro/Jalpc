@@ -12,6 +12,12 @@
   tpl: career.html
   css: timeline
 
+- id: skills_cloudcompare
+  i18n: nav.skills_cloudcompare
+  name: Big Data Cloud Platform Skill Comparison
+  tpl: skills_cloudcompare.html
+  css: team
+  
 - id: skills_bd
   i18n: nav.skills_bd
   name: Big Data Cloud Platform Skills
