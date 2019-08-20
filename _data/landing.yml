@@ -30,11 +30,7 @@
   tpl: skills_azure.html
   css: team
 
-- id: skills_cloudcompare
-  i18n: nav.skills_cloudcompare
-  name: Cloud Compare
-  tpl: skills_cloudcompare.html
-  css: team
+
   
 - id: projects
   i18n: nav.projects
