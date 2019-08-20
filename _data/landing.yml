@@ -18,7 +18,7 @@
   tpl: skills_gcp.html
   css: team
   
- - id: skills_aws
+- id: skills_aws
   i18n: nav.skills_aws
   name: AWS Skills
   tpl: skills_aws.html
