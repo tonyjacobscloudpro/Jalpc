@@ -9,8 +9,6 @@ tags: [Jalpc,Jekyll]
 icon: icon-html
 ---
 
-<a href="https://tonyjacobscloudpro.github.io/Jalpc/NotebooksConvertedHTML/test.html"> DataLab Projects </a>
-
 This is a raw snippet:
 
 ```
@@ -38,5 +36,7 @@ def say_hello():
 
 say_hello()   // "hello world!"
 ```
+
+<a href="https://tonyjacobscloudpro.github.io/Jalpc/NotebooksConvertedHTML/test.html"> DataLab Projects </a>
 
 
