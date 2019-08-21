@@ -37,6 +37,6 @@ def say_hello():
 say_hello()   // "hello world!"
 ```
 
-<a href="https://tonyjacobscloudpro.github.io/Jalpc/NotebooksConvertedHTML/test.html"> DataLab Projects </a>
+
 
 
