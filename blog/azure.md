@@ -3,7 +3,7 @@ layout: blog
 title: Azure
 permalink: /azure/
 ---
----2017-12-21-test-code-snippets.md
+---
 layout: post
 title:  "code snippet test"
 date:   2017-12-21
