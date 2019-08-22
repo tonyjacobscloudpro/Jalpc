@@ -23,6 +23,21 @@ BigQuery is Google's no-ops solution to data warehousing and analytics systems, 
 
 <br />
 <h3>
+<b>BigQuery offers:</b><br />
+</h3>
+
+<ul>
+  <li>Interactive analysis of petabyte scale databases. </li>
+  <li>Familiar, SQL 2011 query language and functions.</li>
+  <li>Many ways to ingest, transform, load, export data to/from BigQuery.</li>
+  <li>Nested and repeated fields, user-defined functions in JavaScript.</li>
+  <li>Data storage is inexpensive; queries charged on amount of data processed.</li>
+</ul>
+
+<br />
+
+<br />
+<h3>
 <b>Benefits of BigQuery:</b><br />
 </h3>
 
