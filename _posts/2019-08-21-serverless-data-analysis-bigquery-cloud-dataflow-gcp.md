@@ -41,7 +41,7 @@ BigQuery is Google's no-ops solution to data warehousing and analytics systems, 
 </ul>
 
  <body>
-      <img src="bigqueryrefarchitecture.jpg">
+      <img src=bigqueryrefarchitecture.jpg>
  </body>
 
    
