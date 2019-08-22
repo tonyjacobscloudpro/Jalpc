@@ -38,8 +38,8 @@ BigQuery is Google's no-ops solution to data warehousing and analytics systems, 
   <li>Durable (replicated), inexpensive storage.</li>
   <li>Immutable audit logs.</li>
   <li>Mashing up different datasets to derive insights.</li>
-</ul>
-</b>
+</ul></b>
+
 <h3>
 <b>What is Dataflow?</b>
 </h3>
