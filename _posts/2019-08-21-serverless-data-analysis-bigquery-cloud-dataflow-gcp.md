@@ -15,6 +15,7 @@ Google BigQuery is a data warehouse that you interact primarily through <b>SQL</
 
 Serverless Data Analysis is meant for people who build data pipelines and data analytics. It is imperative that an individual working with these tools have a solid understanding of SQL, because of interactions with BigQuery, and know either Python or Java, to work with Dataflow.
 
+<br />
 <h3>
 <b>Introduction to BigQuery:</b><br />
 </h3>
