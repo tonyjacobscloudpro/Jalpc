@@ -43,7 +43,7 @@ BigQuery is Google's no-ops solution to data warehousing and analytics systems, 
 <h3>
 <b>What is Dataflow?</b>
 </h3>
-Dataflow is a way by which you can execute <b>Apache Beam</b> data processing pipelines on the cloud.  It does so in a series of steps, and the key thing about Dataflow is that these steps called transforms can be elastically scaled. The code that is written is in an open source API called <b>Apache Beama</b>, and Dataflow is not the only place that you can execute Apache Beam pipelines, you can execute them on <b>Flink</b> or <b>Spark</b> etc, but Cloud Dataflow is usually used as the execution service for when we have a data pipeline that we would like to execute on the cloud.
+Dataflow is a way by which you can execute <b>Apache Beam</b> data processing pipelines on the cloud.  It does so in a series of steps, and the key thing about Dataflow is that these steps called transforms can be elastically scaled. The code that is written is in an open source API called <b>Apache Beam</b>, and Dataflow is not the only place that you can execute Apache Beam pipelines, you can execute them on <b>Flink</b> or <b>Spark</b> etc, but Cloud Dataflow is usually used as the execution service for when we have a data pipeline that we would like to execute on the cloud.
 <h3>
 <b>What is Apache Beam?</b>
 </h3>
