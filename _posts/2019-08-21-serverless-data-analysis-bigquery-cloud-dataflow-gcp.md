@@ -13,12 +13,12 @@ Serverless Data Analysis allows organizations to carry out no-ops data warehousi
 
 <b>Google BigQuery</b> is a data warehouse that you interact primarily through <b>SQL</b>, and <b>Cloud Dataflow</b> is a data processing pipeline system that you can program against in either <b>Python</b> or <b>Java</b>. 
 
-Serverless Data Analysis is meant for people who build data pipelines and data analytics. It is imperative that an individual working with these tools have a solid understanding of <b>SQL</b>, because of interactions with <b>BigQuery</b>, and know either <b>Python</b> or <b>Java</b>, to work with <b>Dataflow</b>.
+Serverless Data Analysis is meant for people who build data pipelines and data analytics. It is imperative that an individual working with these tools have a solid understanding of SQL, because of interactions with BigQuery, and know either Python or Java, to work with Dataflow.
 
 <h3>
 <b>Deep Dive into BigQuery:</b><br />
 </h3>
-Why the big fuss about BigQuery? BigQuery is Google's no-ops solution to data warehousing and analytics systems, and by no-ops in this context essentially means that there is no infrastructure for you to manage, so no operations. It allows businesses an area to store data, analyze the data and export the data from. In this post we will look at (1) how to do queries, (2) functions, (3) how to load and (4) export data. And we'll also look at some advanced features, like (5) nested and (6) repeated fields. (7) How to do window functions and (8) how to do user-defined functions.
+Why exactly is BigQuery? BigQuery is Google's no-ops solution to data warehousing and analytics systems, and by no-ops in this context essentially means that there is no infrastructure for you to manage, so no operations. It allows an individual to store data, analyze the data and export the data from a centralized location. In this post we will look at (1) how to do queries, (2) functions, (3) how to load and (4) export data. And we'll also look at some advanced features, like (5) nested and (6) repeated fields. (7) How to do window functions and (8) how to do user-defined functions.
 
 1:44
 And along the way, we'll do a few labs on queries and functions, on loading and exporting data and on demos. And I'll do a few demos.
