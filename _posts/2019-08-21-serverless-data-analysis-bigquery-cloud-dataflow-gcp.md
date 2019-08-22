@@ -1,26 +1,29 @@
 ---
 layout: post
-title:  "Serverless Data Analysis with Google BigQuery"
+title:  "Introduction to Serverless Data Analysis with Google BigQuery and Cloud Dataflow"
 date:   2019-08-21
-desc: "Serverless Data Analysis with BigQuery on the Google Cloud Platform. "
-keywords: "Serverless, BigQuery, GCP"
+desc: "Serverless Data Analysis on the Google Cloud Platform Introduction "
+keywords: "Serverless, BigQuery, Dataflow, GCP"
 categories: [GCP]
 tags: [Jalpc,Jekyll]
 icon: icon-html
 ---
 
+Serverless Data Analysis allows organizations to carry out no-ops data warehousing using <b>BigQuery</b>, and pipeline processing using <b>Cloud Dataflow</b>. 
+
+Google BigQuery is a petabyte scale data warehouse on Google Cloud that you interact primarily through <b>SQL</b>, and Cloud Dataflow is a data processing pipeline system that you can program against in either <b>Python</b> or <b>Java</b>. 
+
+Serverless Data Analysis is meant for people who build data pipelines and data analytics. It is imperative that an individual working with these tools have a solid understanding of SQL, because of interactions with BigQuery, and know either Python or Java, to work with Dataflow.
+
 <br />
 <h3>
 <b>Introduction to BigQuery and Dataflow:</b><br />
 </h3>
-Serverless Data Analysis allows organizations to carry out no-ops data warehousing using <b>BigQuery</b>, and pipeline processing using <b>Cloud Dataflow</b>.  BigQuery is Google's no-ops solution to data warehousing and analytics systems, and by no-ops in this context essentially means that there is no infrastructure for you to manage, so no operations. It allows an individual to store data, analyze the data and export the data from a centralized location. Google BigQuery is a petabyte scale data warehouse that you interact primarily through <b>SQL</b>, and Cloud Dataflow is a data processing pipeline system that you can program against in either <b>Python</b> or <b>Java</b>. 
+BigQuery is Google's no-ops solution to data warehousing and analytics systems, and by no-ops in this context essentially means that there is no infrastructure for you to manage, so no operations. It allows an individual to store data, analyze the data and export the data from a centralized location. 
+
 <br />
 <h3>
-
-Serverless Data Analysis is meant for people who build data pipelines and data analytics. It is imperative that an individual working with these tools possess a solid understanding of SQL, because of interactions with BigQuery, and know either Python or Java, to work with Dataflow.
-
-<br />
-<b>BigQuery offers:</b>
+<b>BigQuery offers:</b><br />
 </h3>
 
 <ul>
@@ -32,8 +35,10 @@ Serverless Data Analysis is meant for people who build data pipelines and data a
 </ul>
 
 <br />
+
+<br />
 <h3>
-<b>Benefits of BigQuery:</b>
+<b>Benefits of BigQuery:</b><br />
 </h3>
 
 <ul>
@@ -46,6 +51,33 @@ Serverless Data Analysis is meant for people who build data pipelines and data a
 </ul>
 
 
+
+
+```
+hello world
+123
+This is a text snippet
+```
+
+
+This is a JavaScript snippet:
+
+```
+const add = (a, b) => a + b
+const minus = (a, b) => a - b
+
+console.log(add(100,200))  // 300
+console.log(minus(100,200))  // -100
+```
+
+This is a Python snippet:
+
+```
+def say_hello():
+    print("hello world!")
+
+say_hello()   // "hello world!"
+```
 
 
 
