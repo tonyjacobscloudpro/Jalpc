@@ -9,12 +9,12 @@ tags: [Jalpc,Jekyll]
 icon: icon-html
 ---
 
-Serverless Data Analysis allows organizations to carry out no-ops data warehousing using BigQuery, and pipeline processing using Cloud Dataflow. 
+Serverless Data Analysis allows organizations to carry out no-ops data warehousing using <b>BigQuery</b>, and pipeline processing using <b>Cloud Dataflow</b>. 
 
-Google BigQuery is a data warehouse that you interact primarily through SQL, and Cloud Dataflow is a data processing pipeline system that you can program against in either <b>Python</b> or Java. 
+<b>Google BigQuery</b> is a data warehouse that you interact primarily through <b>SQL</b>, and <b>Cloud Dataflow</b> is a data processing pipeline system that you can program against in either <b>Python</b> or <b>Java</b>. 
 
-So, this class is meant for people who build data pipelines, people who build data analytics. So in order to do this class, you need to have knowledge of SQL, because you're going to be interacting with BigQuery, and you need to know either Python or Java, because we're going to be looking at data flow.
-1:00
+Serverless Data Analysis is meant for people who build data pipelines and data analytics. It is imperative that an individual working with these tools have a solid understanding of <b>SQL</b>, because of interactions with <b>BigQuery</b>, and know either <b>Python</b> or <b>Java</b>, to work with Dataflow.
+
 So our agenda here is pretty straight forward. We will first look at big query which is the no-ops, and no-ops in this context essentially means that there is no infrastructure for you to manage, so no operations. So we'll be looking at BigQuery, which is a no-ops data warehousing and analytics system. So it's a place that you can store your data, analyze the data and export the data from. We will look at how to do queries, functions, how to load and export data. And we'll also look at some advanced features, like nested and repeated fields. How to do window functions and how to do user-defined functions.
 1:44
 And along the way, we'll do a few labs on queries and functions, on loading and exporting data and on demos. And I'll do a few demos.
