@@ -2,7 +2,7 @@
 layout: post
 title:  "Serverless Data Analysis wih Google BigQuery and Cloud Dataflow"
 date:   2019-08-21
-desc: "Serverless Data Analysis on the Google CLoud Platform "
+desc: "Serverless Data Analysis on the Google Cloud Platform Introduction "
 keywords: "Serverless, BigQuery, Dataflow, GCP"
 categories: [GCP]
 tags: [Jalpc,Jekyll]
