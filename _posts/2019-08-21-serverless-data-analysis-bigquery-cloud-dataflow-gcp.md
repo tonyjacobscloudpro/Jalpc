@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "code snippet test"
-date:   2017-12-21
-desc: "Quick test on writing code snippets in a blog post"
-keywords: "Jalpc,Jekyll,gh-pages,website,blog,easy"
+title:  "Serverless Data Analysis wih Google BigQuery and Cloud Dataflow"
+date:   2019-08-21
+desc: "Serverless Data Analysis on the Google CLoud Platform "
+keywords: "Serverless, BigQuery, Dataflow, GCP"
 categories: [GCP]
 tags: [Jalpc,Jekyll]
 icon: icon-html
