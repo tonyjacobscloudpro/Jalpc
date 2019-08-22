@@ -14,18 +14,13 @@ Serverless Data Analysis allows organizations to carry out no-ops data warehousi
 Google BigQuery is a petabyte scale data warehouse on Google Cloud that you interact primarily through <b>SQL</b>, and Cloud Dataflow is a data processing pipeline system that you can program against in either <b>Python</b> or <b>Java</b>. 
 
 Serverless Data Analysis is meant for people who build data pipelines and data analytics. It is imperative that an individual working with these tools have a solid understanding of SQL, because of interactions with BigQuery, and know either Python or Java, to work with Dataflow.
-
-<br />
 <h3>
-<b>What is BigQuery?</b><br />
+<b>What is BigQuery?</b>
 </h3>
 BigQuery is Google's no-ops solution to data warehousing and analytics systems, and by no-ops in this context essentially means that there is no infrastructure for you to manage, so no operations. It allows an individual to store data, analyze the data and export the data from a centralized location. 
-
-<br />
 <h3>
-<b>BigQuery offers:</b><br />
+<b>BigQuery offers:</b>
 </h3>
-
 <ul>
   <li>Interactive analysis of petabyte scale databases. </li>
   <li>Familiar, SQL 2011 query language and functions.</li>
@@ -33,13 +28,9 @@ BigQuery is Google's no-ops solution to data warehousing and analytics systems, 
   <li>Nested and repeated fields, user-defined functions in JavaScript.</li>
   <li>Data storage is inexpensive; queries charged on amount of data processed.</li>
 </ul>
-
-<br />
-
 <h3>
-<b>Benefits of BigQuery:</b><br />
+<b>Benefits of BigQuery:</b>
 </h3>
-
 <ul>
   <li>BigQuery separates out storage and compute. </li>
   <li>Near-real time analysis of massive datasets.</li>
