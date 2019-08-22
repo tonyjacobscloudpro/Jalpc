@@ -11,7 +11,7 @@ icon: icon-html
 
 Serverless Data Analysis allows organizations to carry out no-ops data warehousing using <b>BigQuery</b>, and pipeline processing using <b>Cloud Dataflow</b>. 
 
-Google BigQuery is a data warehouse that you interact primarily through <b>SQL</b>, and Cloud Dataflow is a data processing pipeline system that you can program against in either <b>Python</b> or <b>Java</b>. 
+Google BigQuery is a petabyte scale data warehouse on Google Cloud that you interact primarily through <b>SQL</b>, and Cloud Dataflow is a data processing pipeline system that you can program against in either <b>Python</b> or <b>Java</b>. 
 
 Serverless Data Analysis is meant for people who build data pipelines and data analytics. It is imperative that an individual working with these tools have a solid understanding of SQL, because of interactions with BigQuery, and know either Python or Java, to work with Dataflow.
 
