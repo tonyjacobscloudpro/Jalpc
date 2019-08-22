@@ -39,6 +39,31 @@ BigQuery is Google's no-ops solution to data warehousing and analytics systems, 
   <li>Immutable audit logs.</li>
   <li>Mashing up different datasets to derive insights.</li>
 </ul>
+</b>
+<b>What is Dataflow?</b>
+</h3>
+Cloud Dataflow a way to execute Apache Beam data pipelines on Google Cloud Platform. . 
+<h3>
+<b>Dataflow offers:</b>
+</h3>
+<ul>
+  <li>Interactive analysis of petabyte scale databases. </li>
+  <li>Familiar, SQL 2011 query language and functions.</li>
+  <li>Many ways to ingest, transform, load, export data to/from BigQuery.</li>
+  <li>Nested and repeated fields, user-defined functions in JavaScript.</li>
+  <li>Data storage is inexpensive; queries charged on amount of data processed.</li>
+</ul>
+<h3>
+<b>Benefits of Dataflow:</b>
+</h3>
+<ul>
+  <li>BigQuery separates out storage and compute. </li>
+  <li>Near-real time analysis of massive datasets.</li>
+  <li>No-ops; Pay for use.</li>
+  <li>Durable (replicated), inexpensive storage.</li>
+  <li>Immutable audit logs.</li>
+  <li>Mashing up different datasets to derive insights.</li>
+</ul>
 
 
    
