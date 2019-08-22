@@ -40,9 +40,11 @@ BigQuery is Google's no-ops solution to data warehousing and analytics systems, 
   <li>Mashing up different datasets to derive insights.</li>
 </ul>
 <h3>
+</b>
 <b>What is Dataflow?</b>
 </h3>
-Dataflow is a way by which you can execute <b>Apache Beam</b> data processing pipelines on the cloud.  It does so in a series of steps, and the key thing about Dataflow is that these steps called transforms can be elastically scaled. The code that is written is in an open source API called <b>Apache Beama</b>, and Dataflow is not the only place that you can execute Apache Beam pipelines, you can execute them on <b>Flink</b> or <b>Spark</b> etc, but Cloud Dataflow is usually used as the execution service for when we have a data pipeline that we would like to execute on the cloud. 
+Dataflow is a way by which you can execute <b>Apache Beam</b> data processing pipelines on the cloud.  It does so in a series of steps, and the key thing about Dataflow is that these steps called transforms can be elastically scaled. The code that is written is in an open source API called <b>Apache Beama</b>, and Dataflow is not the only place that you can execute Apache Beam pipelines, you can execute them on <b>Flink</b> or <b>Spark</b> etc, but Cloud Dataflow is usually used as the execution service for when we have a data pipeline that we would like to execute on the cloud.
+</b>
 <b>What is Apache Beam?</b>
 </h3>
 Apache Beam is an open source, unified model for defining both batch and streaming data-parallel processing pipelines. Using one of the open source Beam SDKs, you build a program that defines the pipeline. The pipeline is then executed by one of Beam’s supported distributed processing back-ends, which include <b>Apache Apex</b>, <b>Apache Flink</b>, <b>Apache Spark</b>, and <b>Google Cloud Dataflow</b>.
