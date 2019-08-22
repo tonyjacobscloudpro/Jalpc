@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Serverless Data Analysis wih Google BigQuery and Cloud Dataflow"
+title:  "Serverless Data Analysis with Google BigQuery and Cloud Dataflow"
 date:   2019-08-21
 desc: "Serverless Data Analysis on the Google Cloud Platform Introduction "
 keywords: "Serverless, BigQuery, Dataflow, GCP"
@@ -17,9 +17,9 @@ Serverless Data Analysis is meant for people who build data pipelines and data a
 
 <br />
 <h3>
-<b>Introduction to BigQuery:</b><br />
+<b>Introduction to BigQuery and Dataflow:</b><br />
 </h3>
-BigQuery is Google's no-ops solution to data warehousing and analytics systems, and by no-ops in this context essentially means that there is no infrastructure for you to manage, so no operations. It allows an individual to store data, analyze the data and export the data from a centralized location. In this post we will look at (1) how to do queries, (2) functions, (3) how to load and (4) export data. And we'll also look at some advanced features, like (5) nested and (6) repeated fields. (7) How to do window functions and (8) how to do user-defined functions.
+BigQuery is Google's no-ops solution to data warehousing and analytics systems, and by no-ops in this context essentially means that there is no infrastructure for you to manage, so no operations. It allows an individual to store data, analyze the data and export the data from a centralized location. In this post I'll show you (1) how to do queries, (2) functions, (3) how to load and (4) export data. And we'll also look at some advanced features, like (5) nested and (6) repeated fields. (7) How to do window functions and (8) how to do user-defined functions.
 
 
 
