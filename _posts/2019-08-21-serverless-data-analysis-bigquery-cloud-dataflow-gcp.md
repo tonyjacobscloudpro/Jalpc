@@ -35,8 +35,6 @@ BigQuery is Google's no-ops solution to data warehousing and analytics systems, 
 </ul>
 
 <br />
-
-<br />
 <h3>
 <b>Benefits of BigQuery:</b><br />
 </h3>
