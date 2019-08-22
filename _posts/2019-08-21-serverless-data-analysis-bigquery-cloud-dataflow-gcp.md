@@ -17,7 +17,7 @@ Serverless Data Analysis is meant for people who build data pipelines and data a
 
 <br />
 <h3>
-<b>Introduction to BigQuery and Dataflow:</b><br />
+<b>What is BigQuery?</b><br />
 </h3>
 BigQuery is Google's no-ops solution to data warehousing and analytics systems, and by no-ops in this context essentially means that there is no infrastructure for you to manage, so no operations. It allows an individual to store data, analyze the data and export the data from a centralized location. 
 
