@@ -46,10 +46,3 @@ Dataflow is a way by which you can execute <b>Apache Beam</b> data processing pi
 <b>What is Apache Beam?</b>
 </h3>
 Apache Beam is an open source, unified model for defining both batch and streaming data-parallel processing pipelines. Using one of the open source Beam SDKs, you build a program that defines the pipeline. The pipeline is then executed by one of Beam’s supported distributed processing back-ends, which include <b>Apache Apex</b>, <b>Apache Flink</b>, <b>Apache Spark</b>, and <b>Google Cloud Dataflow</b>.
-
-
-   
-   
-                   
-
-
