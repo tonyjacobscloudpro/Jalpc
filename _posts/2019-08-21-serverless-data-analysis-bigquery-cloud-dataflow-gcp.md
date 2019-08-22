@@ -42,7 +42,7 @@ BigQuery is Google's no-ops solution to data warehousing and analytics systems, 
 <h3>
 <b>What is Dataflow?</b>
 </h3>
-Cloud Dataflow a way to execute Apache Beam data pipelines on Google Cloud Platform. . 
+Cloud Dataflow a way to execute Apache Beam data pipelines on the Google Cloud Platform. . 
 <h4>
 <b>Dataflow offers:</b>
 </h4>
