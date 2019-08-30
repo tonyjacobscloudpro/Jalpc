@@ -3,9 +3,9 @@ layout: post
 title:  "Introduction to Serverless Data Analysis with Google BigQuery and Cloud Dataflow"
 date:   2019-08-22
 desc: "Serverless Data Analysis on the Google Cloud Platform Introduction "
-keywords: "Serverless, BigQuery, Dataflow, GCP"
+keywords: "Serverless, BigQuery, Dataflow, GCP, Beam, Apex, Flink, Spark"
 categories: [GCP]
-tags: [Jalpc,Jekyll]
+tags: [GCP, Serverless, BigQuery, Cloud Dataflow]
 icon: icon-html
 ---
 
