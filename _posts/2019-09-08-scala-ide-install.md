@@ -29,10 +29,11 @@ Go to "File" - "New" - "Other..." and select "Scala Project" from the folder "Sc
 
 5. Change the source code to the one given below:
   
-  object Hello extends App {
-    println("Hello, world!")
-  }
-  
+ <blockquote>
+    object Hello extends App {
+      println("Hello, world!")
+    }</blockquote>
+   
 6. Save the file and select from the top menu bar, "Run" -> "Run as" -> "Scala Application"
 
 You should see a the hello world output in the Eclipse console:
