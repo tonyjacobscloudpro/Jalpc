@@ -17,8 +17,18 @@ $(function(){
     <div class="col-lg-12 text-center">
         <div class="navy-line"></div>
         {% assign category = page.url | remove:'/' | capitalize %}
-        {% if category == 'Gcp' or category == 'Aws' or category == 'Open source'%} 
+        {% if category == 'Gcp' or category == 'Aws' %} 
         {% assign category = category | upcase %}
+        {% endif %}
+        <h1>{{ category }}</h1>
+    </div>
+</div>
+<div class="row">
+    <div class="col-lg-12 text-center">
+        <div class="navy-line"></div>
+        {% assign category = page.url | remove:'/' | capitalize %}
+        {% if category == 'Open source' %} 
+        {% assign category = category | 'Open Source' %}
         {% endif %}
         <h1>{{ category }}</h1>
     </div>
