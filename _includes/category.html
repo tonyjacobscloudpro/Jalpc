@@ -19,9 +19,9 @@ $(function(){
         {% assign category = page.url | remove:'/' | capitalize %}
         {% if category == 'Gcp' or category == 'Aws' %} 
         {% assign category = category | upcase %}
-        {% endif %}
         {% if category == 'Open source' %} 
-        {% assign category = category | 'Open Source' %}
+        {% assign category = 'Open Source' %}
+        {% endif %}
         {% endif %}
         <h1>{{ category }}</h1>
     </div>
