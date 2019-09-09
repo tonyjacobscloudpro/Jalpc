@@ -13,7 +13,7 @@
 - name: Azure
   href: /azure/
   
-- name: OpenSource
+- name: Open Source
   href: /opensource/
 
 # Don't display donation page: change donation to off at file '_config.yml'
