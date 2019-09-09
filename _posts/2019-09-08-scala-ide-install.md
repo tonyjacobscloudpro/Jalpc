@@ -28,12 +28,11 @@ To familiarize yourself with the Scala IDE, create a simple "Hello World" projec
 
 4. Enter Hello as the name for the object
 
-5. Change the source code to the one given below:
+5. Change the source code to below:
   
- <blockquote>
-    object Hello extends App {
-      println("Hello, world!")
-    }</blockquote>
+     object Hello extends App {
+        println("Hello, world!")
+     }
    
 6. Save the file and select from the top menu bar, "Run" -> "Run as" -> "Scala Application"
 
