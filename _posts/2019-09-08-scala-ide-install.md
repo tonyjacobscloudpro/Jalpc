@@ -20,7 +20,8 @@ After downloading the archive for your operating system, simply unpack it and st
 Hello World: Scala IDE and the Scala Worksheet
 To familiarize yourself with the Scala IDE, create a simple "Hello World" project in eclipse:
 
-Go to "File" - "New" - "Other..." and select "Scala Project" from the folder "Scala Wizards"
+1. Go to "File" - "New" - "Other..." and select "Scala Project" from the folder "Scala Wizards"
+
 2. Choose a project name and select "Finish"
 
 3. Select "File" - "New" - "Scala Object" to create a new object
