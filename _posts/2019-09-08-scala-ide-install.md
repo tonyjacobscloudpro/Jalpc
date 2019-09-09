@@ -17,7 +17,8 @@ You can download the Scala IDE for eclipse with the Scala Worksheet pre-installe
 
 After downloading the archive for your operating system, simply unpack it and start eclipse. Eclipse requires you to select a workspace on startup. 
 
-Hello World: Scala IDE and the Scala Worksheet
+<b>Hello World Example: Scala IDE and the Scala Worksheet</b>
+
 To familiarize yourself with the Scala IDE, create a simple "Hello World" project in eclipse:
 
 1. Go to "File" - "New" - "Other..." and select "Scala Project" from the folder "Scala Wizards"
