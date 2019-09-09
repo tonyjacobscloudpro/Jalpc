@@ -15,4 +15,4 @@ You can download the Scala IDE for eclipse with the Scala Worksheet pre-installe
 
 <a href="http://scala-ide.org/download/sdk.html">Download Scala IDE</a> (Make sure to download the IDE for Scala version 2.11.x!)
 
-After downloading the archive for your operating system, simply unpack it and start eclipse. Eclipse requires you to select a workspace on startup. We recommend you create one workspace directory for this class and use it for all assignments.
+After downloading the archive for your operating system, simply unpack it and start eclipse. Eclipse requires you to select a workspace on startup. 
