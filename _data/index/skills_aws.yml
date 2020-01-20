@@ -1,7 +1,7 @@
 # skills section data
 
 label: Ability
-id : cs1
+id : cs2
 aspects: SageMaker, S3, EC2, EMR, Route53, ElasticSearch, Kinesis Firehose, Kinesis Streams, Kinesis Analytics, Redshift,
             Machine Learning, DynamoDB
 percentage: 65, 90, 80, 80, 65, 65, 80, 80, 80, 90, 75, 75
