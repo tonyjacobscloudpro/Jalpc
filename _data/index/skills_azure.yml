@@ -1,6 +1,6 @@
 # skills section data
 
 label: Ability
-id : cs2
+id : cs1
 aspects: RDBMS, CosmosDB, DMS, Azure DW, Databricks, HDInsight, Machine Learning, Stream Analytics, DL Store/Analytics, Data Catalog/Factory
 percentage: 95, 65, 70, 65, 80, 65, 60, 75, 55, 55
