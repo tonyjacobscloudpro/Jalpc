@@ -1,6 +1,21 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: Y&L Consulting - Azure Data Engineer w/ Databricks
+    i18n: company_aa
+  desc: 
+    detail: I consulted as an Azure data architect, data engineer, and business analyst supporting multiple high-value health-care and banking projects. Primary Azure services implemented were Azure Databricks and ADF with bias towards serverless methodologies. 
+    i18n: company_aa_desc
+  date:
+    detail: Dec. 2019
+    i18n: company_aa_date
+  job:
+    detail: Azure Data Engineer w/ Databricks
+    i18n: company_aa_job
+  icon: fa-plus-square
+  present: false
+  
+- name:
     detail: Big Data Oil & Gas Consultant at DrillingInfo
     i18n: company_a
   desc: 
@@ -9,13 +24,13 @@
             practices in support of activities within AWS, GCP, and Azure cloud platforms. 
     i18n: company_a_desc
   date:
-    detail: Oct. 2017
+    detail: Jun. 2019
     i18n: company_a_date
   job:
     detail: Big Data Cloud Consultant - Oil & Gas
     i18n: company_a_job
   icon: fa-plus-square
-  present: true
+  present: false
 
 - name:
     detail: DrillingInfo - Major Accomplishments
