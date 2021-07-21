@@ -6,7 +6,7 @@
   desc: 
     detail: Generated weekly and monthly Web-App Adoption metrics for management and outside parties. Provided ad-hoc metrics/reporting for the organization as well as assisted with researching various AWS services.
   date:
-    detail: Dec. 2020
+    detail: Jan. 2020
     i18n: company_ab_date
   job:
     detail: AWS Data Engineer
