@@ -11,6 +11,12 @@
   name: Career
   tpl: career.html
   css: timeline
+  
+- id: skills_azure
+  i18n: nav.skills_azure
+  name: Azure Skills
+  tpl: skills_azure.html
+  css: team
 
 - id: skills_gcp
   i18n: nav.skills_gcp
@@ -23,14 +29,6 @@
   name: AWS Skills
   tpl: skills_aws.html
   css: team
-  
-- id: skills_azure
-  i18n: nav.skills_azure
-  name: Azure Skills
-  tpl: skills_azure.html
-  css: team
-
-
   
 - id: projects
   i18n: nav.projects
