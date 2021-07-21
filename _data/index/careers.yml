@@ -6,7 +6,7 @@
   desc: 
     detail: Generated weekly and monthly Web-App Adoption metrics for management and outside parties. Provided ad-hoc metrics/reporting for the organization as well as assisted with researching various AWS services.
   date:
-    detail: Jan. 2020
+    detail: Jan. 2020 thru Jul. 2020 (Contract - 6 months)
     i18n: company_ab_date
   job:
     detail: AWS Data Engineer
@@ -21,7 +21,7 @@
     detail: I consulted as an Azure data architect, data engineer, and business analyst supporting multiple high-value health-care and banking projects. Primary Azure services implemented were Azure Databricks and ADF with bias towards serverless architecture & methodologies. 
     i18n: company_aa_desc
   date:
-    detail: Dec. 2019
+    detail: Dec. 2019 thru Jan. 2020 (Contract - 1 Year)
     i18n: company_aa_date
   job:
     detail: Azure Data Engineer w/ Databricks
@@ -38,7 +38,7 @@
             practices in support of activities within AWS, GCP, and Azure cloud platforms. 
     i18n: company_a_desc
   date:
-    detail: Jun. 2019
+    detail: Jun. 2019 (6 Years)
     i18n: company_a_date
   job:
     detail: Big Data Cloud Consultant - Oil & Gas
