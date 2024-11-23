@@ -3,4 +3,4 @@
 label: Ability
 id : cs1
 aspects: ADLS, Azure Storage, Azure SQLDatabase, CosmosDB, Data Catalog, Databricks, Data Factory, HDInsight, Stream Analytics, Synapse Analytics
-percentage: 85, 85, 90, 70, 85, 90, 90, 70, 70, 70
+percentage: 85, 85, 90, 70, 75, 85, 90, 70, 70, 85
