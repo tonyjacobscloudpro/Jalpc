@@ -35,6 +35,12 @@
   name: Snowflake
   tpl: skills_snowflake.html
   css: team
+
+- id: skills_dbt
+  i18n: nav.skills_dbt
+  name: dbt
+  tpl: skills_dbt.html
+  css: team
   
 - id: projects
   i18n: nav.projects
