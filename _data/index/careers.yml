@@ -4,7 +4,10 @@
     detail: TruGreen - Data Architect/Engineer/Databricks
     i18n: company_tg
   desc: 
-    detail: Spearheaded the migration from a legacy IBM AS/400 system to Azure Synapse, slashing reporting processing time from 6 hours to under 1 hour and enabling real-time, company-wide access to critical metrics—accelerating decision-making by 85%. Co-led the design and implementation of a medallion data lakehouse architecture utilizing Databricks and Delta Tables, integrating low-cost storage solutions to optimize data warehousing and analytics. This unified platform streamlined access to comprehensive, up-to-date datasets, empowering teams across the organization to derive faster insights and drive data-driven initiatives with greater efficiency.
+    detail: |
+        Spearheaded the migration from a legacy IBM AS/400 system to Azure Synapse, slashing report processing time from 6 hours to 1 hour and enabling company-wide early access to critical metrics—accelerating decision-making by 85%. 
+        
+        Co-led the design and implementation of a medallion data lakehouse architecture utilizing Databricks and Delta Tables, integrating low-cost storage solutions to optimize data warehousing and analytics. This unified platform streamlined access to comprehensive, up-to-date datasets, empowering teams across the organization to derive faster insights and drive data-driven initiatives with greater efficiency.
   date:
     detail: Sep. 2021 thru Jul. 2024 (FTE)
     i18n: company_tg_date
