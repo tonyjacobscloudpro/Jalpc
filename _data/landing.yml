@@ -24,6 +24,12 @@
   tpl: skills_aws.html
   css: team
 
+- id: skills_snowflake
+  i18n: nav.skills_snowflake
+  name: Snowflake Skills
+  tpl: skills_snowflake.html
+  css: team
+
 - id: skills_gcp
   i18n: nav.skills_gcp
   name: GCP Skills
