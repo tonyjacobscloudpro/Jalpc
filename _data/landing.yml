@@ -23,19 +23,19 @@
   name: AWS Skills
   tpl: skills_aws.html
   css: team
-
-- id: skills_snowflake
-  i18n: nav.skills_snowflake
-  name: Snowflake
-  tpl: skills_snowflake.html
-  css: team
-
+  
 - id: skills_gcp
   i18n: nav.skills_gcp
   name: GCP Skills
   tpl: skills_gcp.html
   css: team
-
+  
+- id: skills_snowflake
+  i18n: nav.skills_snowflake
+  name: Snowflake
+  tpl: skills_snowflake.html
+  css: team
+  
 - id: projects
   i18n: nav.projects
   name: Projects
