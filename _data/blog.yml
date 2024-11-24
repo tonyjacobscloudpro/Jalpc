@@ -4,23 +4,23 @@
 
 # edit following lines to custom your blog page, make sure name is the same as href but capitalized first letter(except HTML)
   
-- name: Azure Projects
+- name: Azure
   href: /azure/
   
-- name: AWS Projects
+- name: AWS
   href: /aws/
   
-- name: GCP Projects
+- name: GCP
   href: /gcp/
 
-- name: Snowflake Projects
+- name: Snowflake
   href: /gcp/
 
-- name: dbt Projects
+- name: dbt
   href: /gcp/
   
-# - name: Open Source
-#   href: /open source/
+- name: Open Source
+  href: /open source/
 
 # Don't display donation page: change donation to off at file '_config.yml'
 # - name: Donate
