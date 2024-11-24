@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs5
-aspects: dbt Models, dbt Tests, BigQuery/Redshift/Snowflake Integration, GitHub/GitLab Integration, Jinja Macros, CI/CD Pipelines, Materializations, dbt Cloud, dbt Docs
+aspects: dbt Models, dbt Tests, DW Integration, GitHub/GitLab Integration, Jinja Macros, CI/CD Pipelines, Materializations, dbt Cloud, dbt Docs
 percentage: 70, 70, 70, 70, 70, 70, 70, 70, 70
