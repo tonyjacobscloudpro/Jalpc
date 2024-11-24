@@ -2,6 +2,6 @@
 
 label: Ability
 id : cs4
-aspects: Snow Pipe(Ingestion), Data Sharing, Datawarehousing, Query Optimization, Semi-Structured Data, Snowpark (Data Engineering/ML), Data Marketplace, Steams & Tasks(CDC Automation), Time Travel
+aspects: Snow Pipe, Data Sharing, Datawarehousing, Query Optimization, Semi-Structured Data, Snowpark, Data Marketplace, Steams & Tasks, Time Travel
 percentage: 70, 70, 70, 70, 70, 70, 70, 70, 70
  
