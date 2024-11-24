@@ -50,7 +50,7 @@
 
 - id: blog
   i18n: nav.blog
-  name: Projects
+  name: My Projects
   tpl: blog.html
   page: blog/
   css: testimonials navy-section
