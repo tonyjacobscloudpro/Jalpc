@@ -6,8 +6,9 @@
         </div>
     </div>
     <div class="row features-block">
-        <div class="wow zoomIn col-lg-6 col-lg-offset-3">
-            <canvas id="{{ site.data.index.skills_dbt.id }}" height="500" width="500"></canvas>
+        <!-- Increase canvas size -->
+        <div class="wow zoomIn col-lg-8 col-lg-offset-2">
+            <canvas id="{{ site.data.index.skills_dbt.id }}" height="800" width="800"></canvas>
         </div>
         <div class="col-lg-1"></div>
         <script>
@@ -31,15 +32,17 @@
             options: {
                 scale: {
                     responsive: true,
-                    ticks: {min: 0, max: 100},
-                    lineArc: false,
-                    pointLabels: {fontSize: 12},
+                    maintainAspectRatio: false, // Allow the chart to stretch
+                    ticks: {
+                        min: 0,
+                        max: 100,
+                        fontSize: 14 // Adjust tick font size for clarity
+                    },
+                    pointLabels: {fontSize: 16} // Adjust labels font size
                 },
-                legend: {display: false},
+                legend: {display: true}, // Display legend
             }
         });
-       
         </script>
-    </div>   
-    
+    </div>
 </div>
