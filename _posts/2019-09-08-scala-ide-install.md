@@ -6,7 +6,6 @@ desc: "Installing the Scala IDE for Eclipse with the Scala Worksheet on Windows"
 keywords: "Scala IDE, Eclipse, Scala Worksheet"
 categories: [Open source]
 tags: [Scala IDE, Scala Worksheet, Eclipse]
-icon: icon-html
 ---
 
 Scala IDE provides advanced editing and debugging support for the development of pure Scala and mixed Scala-Java applications.
