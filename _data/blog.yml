@@ -16,7 +16,7 @@
 - name: Snowflake
   href: /snowflake/
 
-- name: dbt
+- name: DBT
   href: /dbt/
   
 - name: Open Source
