@@ -8,8 +8,6 @@ categories: [DBT, Data Engineering]
 tags: [DBT, Data Transformation, Data Modeling, ETL, Cloud Computing]
 ---
 
-# Mastering dbt: The Modern Data Transformation Framework
-
 In the era of data-driven decision-making, **dbt (Data Build Tool)** has emerged as the gold standard for transforming raw data into actionable insights. By enabling analysts and engineers to write modular SQL and manage transformations as code, dbt bridges the gap between data engineering and analytics.
 
 This guide introduces dbt, its core features, and how it empowers teams to own the data transformation process with confidence.
