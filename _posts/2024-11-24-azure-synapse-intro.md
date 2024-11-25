@@ -4,6 +4,7 @@ title: "Introduction to Azure Synapse Analytics"
 date: 2024-11-23
 categories: [Azure, Synapse, Data Engineering]
 tags: [Azure Synapse, Data Analytics, Cloud Computing]
+---
 
 In today's data-driven world, businesses require powerful tools to harness the potential of their data. **Azure Synapse Analytics** is Microsoft's unified data integration, analytics, and big data platform designed to simplify and accelerate this process.
 
