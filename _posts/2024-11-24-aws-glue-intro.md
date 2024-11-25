@@ -2,7 +2,6 @@
 layout: post
 title: "Introduction to AWS Glue: Simplifying Data Integration"
 date: 2024-11-23
-desc: "Introduction to AWS Glue: Simplifying Data Integration"
 categories: [AWS]
 tags: [AWS Glue, Data Integration, ETL, Cloud Computing]
 icon: icon-html
