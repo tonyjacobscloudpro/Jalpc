@@ -103,3 +103,18 @@ GRANT SELECT ON ALL TABLES IN SCHEMA SALES_DB.PUBLIC TO ROLE DATA_ANALYST;
 
 -- Assign the role to a user
 GRANT ROLE DATA_ANALYST TO USER john_doe;
+
+/* You can run the above SQL commands in:
+
+1. Snowflake Web Interface: Navigate to the Worksheet tab and execute the SQL.
+
+
+2. SnowSQL CLI: Connect and execute commands programmatically.
+
+
+3. Third-party tools: Use tools like DBeaver or DataGrip for SQL execution.
+
+
+4. Programmatic Access: Automate using the Snowflake Python connector or APIs.
+*/
+
