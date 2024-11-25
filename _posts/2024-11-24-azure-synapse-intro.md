@@ -4,7 +4,6 @@ title: "Introduction to Azure Synapse Analytics"
 date: 2024-11-23
 categories: [Azure, Synapse, Data Engineering]
 tags: [Azure Synapse, Data Analytics, Cloud Computing]
-author: Your Name
 ---
 
 # Introduction to Azure Synapse Analytics
