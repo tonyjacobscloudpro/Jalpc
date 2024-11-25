@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Introduction in Snowflake IAM (Identity Access & Management)"
+title: "Introduction in Snowflake IAM"
 date: 2020-11-24
-desc: "Introduction in Snowflake IAM (Identity Access & Management)"
+desc: "Introduction in Snowflake IAM"
 keywords: "Snowflake, IAM"
 categories: [Snowflake]
 tags: [Snowflake, IAM]
