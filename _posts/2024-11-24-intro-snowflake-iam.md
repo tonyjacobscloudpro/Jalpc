@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Introduction in Snowflake IAM"
+title: "Introduction to Snowflake IAM"
 date: 2020-11-24
-desc: "Introduction in Snowflake IAM"
+desc: "Introduction to Snowflake IAM"
 keywords: "Snowflake, IAM"
 categories: [Snowflake]
 tags: [Snowflake, IAM]
