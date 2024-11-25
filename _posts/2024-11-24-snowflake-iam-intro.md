@@ -19,12 +19,6 @@ This guide will explore the key components of Snowflake IAM, including authentic
 
 ## Key Components of Snowflake IAM
 
-... (rest of the content remains the same)
-
----
-
-## Key Components of Snowflake IAM
-
 Snowflake’s IAM capabilities focus on three main areas:
 1. **Authentication**: Verifying user and service identities.
 2. **Authorization**: Controlling access to data and resources.
