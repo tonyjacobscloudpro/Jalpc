@@ -38,7 +38,7 @@
 
 - id: skills_dbt
   i18n: nav.skills_dbt
-  name: DBT
+  name: dbt
   tpl: skills_dbt.html
   css: team
   
