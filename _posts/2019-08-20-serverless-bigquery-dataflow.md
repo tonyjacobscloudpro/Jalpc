@@ -6,7 +6,6 @@ desc: "Serverless Data Analysis on the Google Cloud Platform Introduction "
 keywords: "Serverless, BigQuery, Dataflow, GCP, Beam, Apex, Flink, Spark "
 categories: [GCP]
 tags: [GCP, Serverless, BigQuery, Cloud Dataflow]
-icon: icon-html
 ---
 
 Serverless Data Analysis allows organizations to carry out no-ops data warehousing using <b>BigQuery</b>, and pipeline processing using <b>Cloud Dataflow</b>. 
