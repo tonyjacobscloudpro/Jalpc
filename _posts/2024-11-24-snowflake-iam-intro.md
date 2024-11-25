@@ -23,7 +23,6 @@ Snowflake’s IAM capabilities focus on three main areas:
 1. **Authentication**: Verifying user and service identities.
 2. **Authorization**: Controlling access to data and resources.
 3. **Auditing**: Monitoring activity for compliance and governance.
----
 
 ### **1. Authentication: Who Can Access Snowflake?**
 
