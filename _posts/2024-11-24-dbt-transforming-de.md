@@ -4,7 +4,7 @@ title: "Mastering dbt: Transforming Data Engineering with Ease"
 date: 2024-11-23
 desc: "Explore dbt (Data Build Tool), the go-to framework for modern data transformation and analytics engineering."
 keywords: "dbt, Data Transformation, Analytics Engineering, ETL, Data Modeling"
-categories: [DBT]
+categories: [DBT, Data Engineering]
 tags: [DBT, Data Transformation, Data Modeling, ETL, Cloud Computing]
 icon: icon-dbt
 ---
