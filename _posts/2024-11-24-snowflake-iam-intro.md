@@ -6,7 +6,6 @@ desc: "Learn how to implement secure and efficient Identity and Access Managemen
 keywords: "Snowflake, IAM, Access Control, Data Security, Role-Based Access Control"
 categories: [Snowflake, Security, Data Governance]
 tags: [Snowflake, IAM, Security, Access Control]
-icon: icon-lock
 ---
 
 # Understanding Snowflake IAM and Its Best Practices
