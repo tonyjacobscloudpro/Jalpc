@@ -6,7 +6,6 @@ desc: "Explore dbt (Data Build Tool), the go-to framework for modern data transf
 keywords: "dbt, Data Transformation, Analytics Engineering, ETL, Data Modeling"
 categories: [DBT, Data Engineering]
 tags: [DBT, Data Transformation, Data Modeling, ETL, Cloud Computing]
-icon: icon-dbt
 ---
 
 # Mastering dbt: The Modern Data Transformation Framework
