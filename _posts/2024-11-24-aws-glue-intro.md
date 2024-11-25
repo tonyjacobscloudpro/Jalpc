@@ -6,7 +6,6 @@ desc: "Explore AWS Glue, Amazon's serverless ETL service, and learn how it simpl
 keywords: "AWS Glue, Data Integration, ETL, Cloud Computing, Data Preparation"
 categories: [AWS, Data Engineering]
 tags: [AWS Glue, Data Integration, ETL, Cloud Computing]
-icon: icon-glue
 ---
 
 # Unlocking the Power of AWS Glue for Data Integration
