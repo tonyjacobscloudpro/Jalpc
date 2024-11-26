@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Getting Started with Azure AI and Machine Learning Services"
