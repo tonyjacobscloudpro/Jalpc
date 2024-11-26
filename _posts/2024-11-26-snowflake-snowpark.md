@@ -8,9 +8,9 @@ categories: [Snowflake, Snowpark, Data Engineering]
 tags: [Snowpark, Python, Snowflake, Data Engineering]
 ---
 
-Snowflake's **Snowpark** for Python provides a powerful programming framework for data engineers and developers to process data directly within Snowflake. With Snowpark, you can leverage Pythonâ€™s versatility to build scalable data pipelines and perform advanced transformations.
+Snowflake's **Snowpark** for Python provides a powerful programming framework for data engineers and developers to process data directly within Snowflake. With Snowpark, you can leverage Python's versatility to build scalable data pipelines and perform advanced transformations.
 
-This guide introduces Snowparkâ€™s core features and walks through basic setup and operations.
+This guide introduces Snowpark's core features and walks through basic setup and operations.
 
 ---
 
@@ -18,7 +18,7 @@ This guide introduces Snowparkâ€™s core features and walks through basic se
 
 Snowpark is a developer framework that allows you to:
 - Process data in Snowflake using Python.
-- Leverage Snowflakeâ€™s secure and scalable infrastructure.
+- Leverage Snowflake's secure and scalable infrastructure.
 - Simplify ETL workflows with seamless integration of Python logic.
 
 Key features include:
@@ -92,7 +92,7 @@ filtered_df.write.save_as_table("filtered_table")
 
 ## Creating UDFs in Snowpark
 
-Define and register a Python UDF to extend Snowflakeâ€™s functionality:
+Define and register a Python UDF to extend Snowflake's functionality:
 ```python
 from snowflake.snowpark.functions import udf
 
@@ -119,14 +119,14 @@ json_df.select(json_df["json_data"]["key"]).show()
 ```
 
 ### 2. Optimizing Performance
-Leverage Snowflakeâ€™s auto-scaling and parallel processing to optimize queries and pipelines:
+Leverage Snowflake's auto-scaling and parallel processing to optimize queries and pipelines:
 - Use **clustering** for large datasets.
-- Monitor query performance with Snowflakeâ€™s **Query History**.
+- Monitor query performance with Snowflake's **Query History**.
 
 ---
 
 ## Conclusion
 
-Snowpark bridges the gap between Python development and Snowflakeâ€™s robust data platform. By using Snowpark, you can streamline data engineering workflows, improve performance, and unify your data processing needs.
+Snowpark bridges the gap between Python development and Snowflake's robust data platform. By using Snowpark, you can streamline data engineering workflows, improve performance, and unify your data processing needs.
 
 Explore Snowpark further with the [official documentation](https://docs.snowflake.com/en/developer-guide/snowpark/python/index.html) and start building scalable Python applications on Snowflake today!
