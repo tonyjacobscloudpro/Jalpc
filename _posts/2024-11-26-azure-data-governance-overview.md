@@ -20,9 +20,9 @@ Data classification categorizes data assets by assigning them unique logical lab
 - SWIFT code.
 - Individual's name.
 
-You can define data classification schemes such as a [data confidentiality classification scheme](./govern-requirements.md#data-confidentiality-classification-scheme) in your data catalog. To define the scheme, you associate policies and rules in your catalog with different classification levels.
+You can define data classification schemes such as a [data confidentiality classification scheme](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/cloud-scale-analytics/govern-requirements#data-lifecycle-retention-classification-scheme) in your data catalog. To define the scheme, you associate policies and rules in your catalog with different classification levels.
 
-A [data lifecycle retention classification scheme](govern-requirements.md#data-lifecycle-retention-classification-scheme) provides different retention classifications for data lifecycle management. A custom microservice lifecycle application can use this scheme to maintain the data lifecycle within your environment.
+A data lifecycle retention classification scheme provides different retention classifications for data lifecycle management. A custom microservice lifecycle application can use this scheme to maintain the data lifecycle within your environment.
 
 Label or tag data attributes in your business glossary with confidentiality and retention classifications that specify their governance. Labeling an attribute in your glossary automatically defines how to govern data mapped to the attribute in underlying data stores. Your data catalog maps the physical data attributes in different data stores to the business glossary attributes.
 
