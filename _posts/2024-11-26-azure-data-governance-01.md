@@ -95,5 +95,5 @@ The data governance maturity model describes the maturity of your ability to cov
 Once you determine where you currently stand in the governance maturity model, meet with your key stakeholders to map out a strategy to increase your maturity. Start by defining your requirements, technology, data quality, metadata, data sharing, and master data strategy.
 
 ## Next Steps
-[Azure Data Governance: Step 2 - Requirements](https://tonyjacobscloudpro.github.io/Jalpc/azure/data%20engineering/2024/11/26/azure-data-governance-02.html
+[Azure Data Governance: Step 2 - Requirements](https://tonyjacobscloudpro.github.io/Jalpc/azure/data%20engineering/2024/11/26/azure-data-governance-02.html)
 
