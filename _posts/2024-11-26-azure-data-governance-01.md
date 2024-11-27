@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Azure Data Governance - Step 1: Overview"
+title: "Azure Data Governance - Step 1: Introduction/Overview"
 date: 2024-11-26
 desc: "Dive into Azure Data Governance."
 keywords: "Azure Data Governance, Azure"
