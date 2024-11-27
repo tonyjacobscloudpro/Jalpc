@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Microsoft Azure: Data Governance Overview"
+title: "Azure Data Governance - Step 1: Overview"
 date: 2024-11-26
 desc: "Dive into Azure Data Governance."
 keywords: "Azure Data Governance, Azure"
@@ -94,7 +94,3 @@ The data governance maturity model describes the maturity of your ability to cov
 
 Once you determine where you currently stand in the governance maturity model, meet with your key stakeholders to map out a strategy to increase your maturity. Start by defining your requirements, technology, data quality, metadata, data sharing, and master data strategy.
 
-## Next steps
-
-> [!div class="nextstepaction"]
-> [Requirements for governing data](./govern-requirements.md)
