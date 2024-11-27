@@ -120,8 +120,6 @@ Finally, there's a requirement for metadata lineage. You can use an audit trail 
 
 You need an end-to-end solution that can govern data throughout its lifecycle across data stores in the edge, multiple clouds, and the datacenter.
 
-:::image type="content" source="./images/data-governance-framework.png" alt-text="Diagram of data governance framework.":::
-
 Your data governance solution should have several components:
 
 - A data governance vision and strategy
