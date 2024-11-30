@@ -3,16 +3,16 @@
   first_name: 
   desc: AWS Cloud Information
   website: https://aws.amazon.com/
-  email: tjacobs.datascience@gmail.com
+
 
 - last_name: Google Cloud Platform (GCP)
   first_name: 
   desc: GCP Cloud Information
   website: https://cloud.google.com/
-  email: tjacobs.datascience@gmail.com
+
 
 - last_name: Microsoft Azure
   first_name: 
   desc: Microsoft Azure Information
   website: https://azure.microsoft.com/en-us/
-  email: tjacobs.datascience@gmail.com
+
