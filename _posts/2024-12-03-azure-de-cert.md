@@ -25,7 +25,7 @@ This study guide aims to:
 
 | **Description**                      | **Link**                                                                                                     |
 |--------------------------------------|-------------------------------------------------------------------------------------------------------------|
-| How to earn the certification        | [Certification details](https://learn.microsoft.com/en-us/certifications/)                                  |
+| How to earn the certification        | [Certification details](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-engineer/)                                  |
 | Certification renewal                | [Renew certification](https://learn.microsoft.com/en-us/certifications/renew/)                              |
 | Your Microsoft Learn profile         | [Connect profile](https://learn.microsoft.com/en-us/)                                                       |
 | Exam scoring and score reports       | [Exam scoring details](https://learn.microsoft.com/en-us/certifications/scoring/)                           |
