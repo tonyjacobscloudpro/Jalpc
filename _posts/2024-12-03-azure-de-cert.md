@@ -72,8 +72,8 @@ You must also have:
   - [Streaming workloads](https://tonyjacobscloudpro.github.io/Jalpc/azure/data%20engineering/certification/2024/12/03/azure-cert-storage-partition-03.html)
   - [Azure Synapse Analytics](https://tonyjacobscloudpro.github.io/Jalpc/azure/data%20engineering/synapse%20analytics/2024/12/03/azure-cert-storage-partition-04.html)
   - [Azure Data Lake Storage Gen2](https://tonyjacobscloudpro.github.io/Jalpc/azure/data%20engineering/data%20lake/2024/12/03/azure-cert-storage-partition-05.html)
-- [Design and implement the data exploration layer:](https://tonyjacobscloudpro.github.io/Jalpc/azure/data%20engineering/synapse%20analytics/2024/12/03/azure-data-explore-01.html)
-  - Execute queries with SQL serverless and Spark clusters.
+- Design and implement the data exploration layer:
+  - [Execute queries with SQL serverless and Spark clusters.](https://tonyjacobscloudpro.github.io/Jalpc/azure/data%20engineering/synapse%20analytics/2024/12/03/azure-data-explore-01.html)
   - Use Synapse Analytics database templates.
   - Push data lineage to Microsoft Purview.
   - Search metadata in Purview Data Catalog.
