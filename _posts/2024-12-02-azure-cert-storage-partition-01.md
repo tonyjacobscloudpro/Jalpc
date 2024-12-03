@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Implementing File Partition Strategy on Microsoft Azure"
-date: 2024-12-01
+date: 2024-12-02
 desc: "Learn how to design and implement a file partitioning strategy in Azure for efficient data storage and processing."
 keywords: "Azure File Partitioning, Data Engineer Certification, DP-203, Partition Strategy, Azure Data Lake"
-categories: [Azure]
+categories: [Azure, Data Engineering]
 tags: [Azure, Partitioning, Data Engineering, DP-203]
 ---
 
