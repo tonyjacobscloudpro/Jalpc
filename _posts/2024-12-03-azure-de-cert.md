@@ -67,7 +67,7 @@ You must also have:
 
 ### **Design and Implement Data Storage (15–20%)**
 - Implement partition strategies:
-  - Files
+  - [Files](_posts/2024-12-02-azure-cert-storage-partition-01.md)
   - Analytical workloads
   - Streaming workloads
   - Azure Synapse Analytics
