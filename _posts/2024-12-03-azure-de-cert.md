@@ -71,7 +71,7 @@ You must also have:
   - [Analytical workloads](https://tonyjacobscloudpro.github.io/Jalpc/azure/data%20engineering/certification/2024/12/01/azure-cert-storage-partion-02.html)
   - [Streaming workloads](https://tonyjacobscloudpro.github.io/Jalpc/azure/data%20engineering/certification/2024/12/03/azure-cert-storage-partition-03.html)
   - [Azure Synapse Analytics](https://tonyjacobscloudpro.github.io/Jalpc/azure/data%20engineering/synapse%20analytics/2024/12/03/azure-cert-storage-partition-04.html)
-  - Azure Data Lake Storage Gen2
+  - [Azure Data Lake Storage Gen2](https://tonyjacobscloudpro.github.io/Jalpc/azure/data%20engineering/data%20lake/2024/12/03/azure-cert-storage-partition-05.html)
 - Design and implement the data exploration layer:
   - Execute queries with SQL serverless and Spark clusters.
   - Use Synapse Analytics database templates.
