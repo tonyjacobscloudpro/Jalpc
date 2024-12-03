@@ -69,7 +69,7 @@ You must also have:
 - Implement partition strategies:
   - [Files](https://tonyjacobscloudpro.github.io/Jalpc/azure/data%20engineering/2024/12/02/azure-cert-storage-partition-01.html)
   - [Analytical workloads](https://tonyjacobscloudpro.github.io/Jalpc/azure/data%20engineering/certification/2024/12/01/azure-cert-storage-partion-02.html)
-  - [Streaming workloads](https://tonyjacobscloudpro.github.io/Jalpc/azure/data%20engineering/certification/2024/12/01/azure-cert-storage-partion-03.html)
+  - [Streaming workloads](https://tonyjacobscloudpro.github.io/Jalpc/azure/data%20engineering/certification/2024/12/03/azure-cert-storage-partion-03.html)
   - Azure Synapse Analytics
   - Azure Data Lake Storage Gen2
 - Design and implement the data exploration layer:
