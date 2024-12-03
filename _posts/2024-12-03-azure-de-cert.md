@@ -26,12 +26,11 @@ This study guide aims to:
 | **Description**                      | **Link**                                                                                                     |
 |--------------------------------------|-------------------------------------------------------------------------------------------------------------|
 | How to earn the certification        | [Certification details](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-engineer/)                                  |
-| Certification renewal                | [Renew certification](https://learn.microsoft.com/en-us/certifications/renew/)                              |
-| Your Microsoft Learn profile         | [Connect profile](https://learn.microsoft.com/en-us/)                                                       |
-| Exam scoring and score reports       | [Exam scoring details](https://learn.microsoft.com/en-us/certifications/scoring/)                           |
-| Exam sandbox                         | [Explore exam environment](https://learn.microsoft.com/en-us/certifications/exam-sandbox/)                 |
-| Request accommodations               | [Request accommodations](https://learn.microsoft.com/en-us/certifications/exam-accommodations/)            |
-| Take a free Practice Assessment      | [Practice questions](https://learn.microsoft.com/en-us/certifications/practice-assessments/)               |
+| Certification renewal                | [Renew certification](https://learn.microsoft.com/en-us/credentials/certifications/renew-your-microsoft-certification)                              |
+| Your Microsoft Learn profile         | [Connect profile](https://learn.microsoft.com/en-us/users/)                                                       |
+| Exam scoring and score reports       | [Exam scoring details](https://learn.microsoft.com/en-us/credentials/certifications/exam-scoring-reports)                           |
+| Exam sandbox                         | [Explore exam environment](https://aka.ms/examdemo)                 |
+| Take a free Practice Assessment      | [Practice questions](https://learn.microsoft.com/en-us/credentials/certifications/exams/dp-203/practice/assessment?assessment-type=practice&assessmentId=49)               |
 
 ---
 
@@ -151,5 +150,3 @@ You must also have:
 ## Conclusion
 
 The DP-203 certification exam is designed to validate your expertise in modern data engineering. By following this study guide and leveraging the resources provided, you can confidently prepare for the exam and advance your career as an Azure data engineer.
-
-For detailed exam information, visit the [official certification page](https://learn.microsoft.com/en-us/certifications/exam-dp-203/).
