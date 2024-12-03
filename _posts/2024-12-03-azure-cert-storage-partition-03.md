@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Implementing a Partition Strategy for Streaming Workloads on Azure"
-date: 2024-12-01
+date: 2024-12-03
 desc: "Learn how to design and implement partitioning strategies for streaming workloads on Azure to optimize data processing and scalability."
 keywords: "Azure Partitioning, Streaming Workloads, Data Engineering, DP-203 Certification, Azure Event Hubs, Azure Stream Analytics"
 categories: [Azure, Data Engineering, Certification]
