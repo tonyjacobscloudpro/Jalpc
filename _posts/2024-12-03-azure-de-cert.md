@@ -75,7 +75,7 @@ You must also have:
 - Design and implement the data exploration layer:
   - [Execute queries with SQL serverless and Spark clusters.](https://tonyjacobscloudpro.github.io/Jalpc/azure/data%20engineering/synapse%20analytics/2024/12/03/azure-data-explore-01.html)
   - [Use Synapse Analytics database templates.](https://tonyjacobscloudpro.github.io/Jalpc/azure/data%20engineering/synapse%20analytics/2024/12/03/azure-data-explore-02.html)
-  - Push data lineage to Microsoft Purview.
+  - [Push data lineage to Microsoft Purview.](https://tonyjacobscloudpro.github.io/Jalpc/azure/data%20governance/microsoft%20purview/2024/12/15/azure-data-explore-03.html)
   - Search metadata in Purview Data Catalog.
 
 ---
