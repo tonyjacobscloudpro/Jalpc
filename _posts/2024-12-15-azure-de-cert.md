@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Study Guide for Exam DP-203: Data Engineering on Microsoft Azure"
-date: 2024-12-01
+date: 2024-12-15
 desc: "Comprehensive study guide for the DP-203 certification exam, covering topics like data storage, data processing, and security on Microsoft Azure."
 keywords: "DP-203 Study Guide, Azure Data Engineering Certification, Data Storage, Data Processing, Azure Synapse, Azure Databricks"
 categories: [Azure, Data Engineering, Certification]
