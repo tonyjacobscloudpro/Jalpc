@@ -87,6 +87,7 @@ You must also have:
 - Data transformation using:
   - Apache Spark
   - T-SQL in Azure Synapse Analytics
+     - [Partition Switching](https://tonyjacobscloudpro.github.io/Jalpc/azure/data%20engineering/azure%20synapse%20analytics/2024/12/16/azure-data-processing.html)
   - Azure Synapse Pipelines or Azure Data Factory
   - Azure Stream Analytics
 - Handle data issues:
