@@ -112,7 +112,7 @@ The SnowPro Core exam assesses your understanding of:
 ---
 ## Study Domains
 1. **Domain 1.0: Snowflake AI Data Cloud Features and Architecture**:
-   - Outline key features of the Snowflake AI Data Cloud
+   - 1.1 Outline key features of the Snowflake AI Data Cloud
      - [Elastic storage](https://tonyjacobscloudpro.github.io/Jalpc/snowflake/data%20engineering/cloud%20storage/2024/12/28/snowflake-1-1-elasticstorage.html)
      - [Elastic compute](https://tonyjacobscloudpro.github.io/Jalpc/snowflake/data%20engineering/cloud%20compute/2024/12/28/snowflake-1-1-elasticcompute.html)
 2. **Official Training**:
