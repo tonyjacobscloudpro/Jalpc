@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Understanding Cloud Partner Categories"
+title: "Understanding Snowflake Cloud Partner Categories"
 date: 2024-12-30
 desc: "A comprehensive guide to the categories of cloud partners and their roles in enabling cloud adoption and driving business transformation."
 keywords: "Cloud Partners, Cloud Partner Categories, Cloud Service Providers, System Integrators, Technology Partners"
