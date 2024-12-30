@@ -27,6 +27,7 @@ This study guide aims to:
      - [Elastic compute](https://tonyjacobscloudpro.github.io/Jalpc/snowflake/data%20engineering/cloud%20compute/2024/12/28/snowflake-1-1-elasticcompute.html)
      - [Snowflake’s three distinct layers](https://tonyjacobscloudpro.github.io/Jalpc/snowflake/data%20engineering/cloud%20architecture/2024/12/30/snowflake-1-1-3layers.html)
      - [Cloud partner categories](https://tonyjacobscloudpro.github.io/Jalpc/cloud/partnerships/cloud%20service%20providers/2024/12/30/snowflake-1-1-partnercategories.html)
+     - [Snowflake Editions](https://tonyjacobscloudpro.github.io/Jalpc/snowflake/data%20engineering/cloud%20data%20platforms/2024/12/30/snowflake-1-1-editions.html)
 2. **Official Training**:
    - [Snowflake Fundamentals](https://www.snowflake.com/training/essentials/)
 
