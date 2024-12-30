@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Study Guide for Snowflake SnowPro Core Certification Exam"
-date: 2024-12-28
+date: 2024-12-29
 desc: "Comprehensive study guide for the SnowPro Core certification exam, covering Snowflake architecture, data loading, security, performance optimization, and more."
 keywords: "SnowPro Core Study Guide, Snowflake Certification, Snowflake Architecture, Data Loading, Performance Tuning, Snowflake Security"
 categories: [Snowflake, Data Engineering, Certification]
