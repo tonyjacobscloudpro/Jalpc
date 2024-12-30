@@ -110,6 +110,16 @@ The SnowPro Core exam assesses your understanding of:
   - Use secure views and materialized views for controlled data sharing.
 
 ---
+## Study Domains
+1. **Domain 1.0: Snowflake AI Data Cloud Features and Architecture**:
+   - Outline key features of the Snowflake AI Data Cloud
+     - [Elastic storage](https://docs.snowflake.com/en/user-guide-getting-started.html)
+   - [Data Loading Best Practices](https://docs.snowflake.com/en/user-guide/data-load-overview.html)
+   - [Query Performance Tuning](https://docs.snowflake.com/en/user-guide/performance-tuning.html)
+2. **Official Training**:
+   - [Snowflake Fundamentals](https://www.snowflake.com/training/essentials/)
+
+---
 
 ## Study Resources
 
