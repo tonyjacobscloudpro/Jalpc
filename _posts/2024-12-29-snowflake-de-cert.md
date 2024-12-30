@@ -29,7 +29,7 @@ This study guide aims to:
      - [Cloud partner categories](https://tonyjacobscloudpro.github.io/Jalpc/cloud/partnerships/cloud%20service%20providers/2024/12/30/snowflake-1-1-partnercategories.html)
      - [Snowflake Editions](https://tonyjacobscloudpro.github.io/Jalpc/snowflake/data%20engineering/cloud%20data%20platforms/2024/12/30/snowflake-1-1-editions.html)
    - 1.2 Outline key Snowflake tools and user interfaces.
-     - [Snowsight]()
+     - [Snowsight](https://tonyjacobscloudpro.github.io/Jalpc/snowflake/data%20warehousing/analytics/2024/12/30/snowflake-1-2-snowsight.html)
 2. **Official Training**:
    - [Snowflake Fundamentals](https://www.snowflake.com/training/essentials/)
 
