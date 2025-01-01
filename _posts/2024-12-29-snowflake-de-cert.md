@@ -50,6 +50,10 @@ This study guide aims to:
      - [Pipes]()
      - [Shares]()
      - [Sequences]()
+   - 1.4 Outline Snowflake storage concepts
+     - [Micro-partitions]()
+     - [Data clustering]()
+     - [Data Storage monitoring]()
 
 2. **Official Training**:
    - [Snowflake Fundamentals](https://www.snowflake.com/training/essentials/)
