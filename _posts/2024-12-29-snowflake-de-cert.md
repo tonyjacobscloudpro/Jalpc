@@ -35,6 +35,22 @@ This study guide aims to:
      - [Snowflake drivers]()
      - [Snowpark]()
      - [SnowCD]()
+   - 1.3 Outline Snowflake's catalog & objects
+     - [Databases]()
+     - [Stages]()
+     - [Schema types]()
+     - [Table types]()
+     - [View types]()
+     - [Data types]()
+     - [UDFs]()
+     - [UDTFs]()
+     - [Stored Procedures]()
+     - [Streams]()
+     - [Tasks]()
+     - [Pipes]()
+     - [Shares]()
+     - [Sequences]()
+
 2. **Official Training**:
    - [Snowflake Fundamentals](https://www.snowflake.com/training/essentials/)
 
