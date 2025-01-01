@@ -30,6 +30,11 @@ This study guide aims to:
      - [Snowflake Editions](https://tonyjacobscloudpro.github.io/Jalpc/snowflake/data%20engineering/cloud%20data%20platforms/2024/12/30/snowflake-1-1-editions.html)
    - 1.2 Outline key Snowflake tools and user interfaces.
      - [Snowsight](https://tonyjacobscloudpro.github.io/Jalpc/snowflake/data%20warehousing/analytics/2024/12/30/snowflake-1-2-snowsight.html)
+     - [SnowSQL]()
+     - [Snowflake connectors]()
+     - [Snowflake drivers]()
+     - [Snowpark]()
+     - [SnowCD]()
 2. **Official Training**:
    - [Snowflake Fundamentals](https://www.snowflake.com/training/essentials/)
 
