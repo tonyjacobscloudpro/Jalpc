@@ -78,6 +78,36 @@ This study guide aims to:
          - [Tracking read/write operations]()
      - [Overview of row/comlumn level security]()
      - [Object tags]()
+    
+3. **Domain 3.0: *: Performance Concepts**
+   - 3.1 Explain the use of Query Profile.
+     - [Explain plans]()
+     - [Data spilling]()
+     - [Use of the data cache]()
+     - [Micro-partition pruning]()
+     - [Query history]()
+   - 3.2 Explain virtual warehouse configurations.
+     - [Types of warehouses]()
+     - [Multi-clustering warehouses]()
+        - [Scaling policies]()
+        - [Scaling modes ]()
+     - [Warehouse sizing]()
+     - [Warehouse settings & access]()
+   - 3.3 Outline virtual warehouse performance tools.
+     - [Monitoring warehouse loads]()
+     - [Scaling-up compared to scaling-out]()
+     - [Resource monitors]()
+     - [Query acceleration service]()
+   - 3.4 Optimize query performance.
+     - [Describe the use of materialized views]()
+     - [Use of specific SELECT commands]()
+     - [Clustering]()
+     - [Search optimization service]()
+     - [Persisted query results]()
+     - [Understanding the impace of different types of caching]()
+        - [Metadata cache]()
+        - [Result cache]()
+        - [Warehouse cache]()
 
 2. **Official Training**:
    - [Snowflake Fundamentals](https://www.snowflake.com/training/essentials/)
