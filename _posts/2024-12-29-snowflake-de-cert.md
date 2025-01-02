@@ -55,6 +55,14 @@ This study guide aims to:
      - [Data clustering]()
      - [Data Storage monitoring]()
 
+2. **Domain 2.0: Snowflake Account Access & Security**:
+   - 2.1 Outline security principles
+     - [Network security & policies]()
+     - [MFA]()
+     - [Federated Authentication]()
+     - [Key Pair Authentication]()
+     - [SSO]()
+
 2. **Official Training**:
    - [Snowflake Fundamentals](https://www.snowflake.com/training/essentials/)
 
