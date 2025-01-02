@@ -108,6 +108,22 @@ This study guide aims to:
         - [Metadata cache]()
         - [Result cache]()
         - [Warehouse cache]()
+4. **Domain 4.0: Data loading & unloading**
+   - 4.1 Define concepts and best practices that should be considered when loading data.
+     - [Stages and stage types]()
+     - [File size and formats]()
+     - [Folder structures]()
+     - [Ad-hoc/bulk loading]()
+     - [Snowpipe]()
+   - 4.2 Outline different commands to load data and when they should be used.
+     - [CREATE STAGE]()
+     - [CREATE FILE FORMAT]()
+     - [CREATE PIPE]()
+     - [CREATE EXTERNAL TABLE]()
+     - [COPY INTO]()
+     - [INSERT/INSERT OVERWRITE]()
+     - [PUT]()
+     - [VALIDATE]()
 
 2. **Official Training**:
    - [Snowflake Fundamentals](https://www.snowflake.com/training/essentials/)
