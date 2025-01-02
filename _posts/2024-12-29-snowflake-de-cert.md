@@ -62,6 +62,22 @@ This study guide aims to:
      - [Federated Authentication]()
      - [Key Pair Authentication]()
      - [SSO]()
+   - 2.2 Define entities & roles used in Snowflake.
+     - [Overview of access control]()
+         - [Access control frameworks]()
+         - [Access Control privileges]()
+     - [Outline how privileges can be granted and revoked]()
+     - [Explain role hierarchy and inherentance]()
+   - 2.3 Outline data governance capabilities in Snowflake
+     - [Accounts]()
+     - [Organizations]()
+     - [Secure views]()
+     - [Secure functions]()
+     - [Information schemas]()
+     - [Access history]()
+         - [Tracking read/write operations]()
+     - [Overview of row/comlumn level security]()
+     - [Object tags]()
 
 2. **Official Training**:
    - [Snowflake Fundamentals](https://www.snowflake.com/training/essentials/)
