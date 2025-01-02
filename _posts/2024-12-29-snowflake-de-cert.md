@@ -79,7 +79,7 @@ This study guide aims to:
      - [Overview of row/comlumn level security]()
      - [Object tags]()
     
-3. **Domain 3.0: *: Performance Concepts**
+3. **Domain 3.0: Performance Concepts**
    - 3.1 Explain the use of Query Profile.
      - [Explain plans]()
      - [Data spilling]()
