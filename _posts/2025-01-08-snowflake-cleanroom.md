@@ -61,7 +61,7 @@ A data clean room is a secure environment where organizations can share and coll
 ### 3. **Ingest and Mask Data**
 
 1. **Ingest Data into Snowflake**:
-   - Use Snowflakeâ€™s data loading tools to load data into the clean room database.
+   - Use Snowflake's data loading tools to load data into the clean room database.
 2. **Apply Data Masking**:
    - Use Dynamic Data Masking to protect sensitive information:
      \`\`\`sql
