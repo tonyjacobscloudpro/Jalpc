@@ -148,13 +148,13 @@ A data clean room is a secure environment where organizations can share and coll
 - Use native Snowflake features like Secure Data Sharing and Row Access Policies.
 
 ### **3. Validate Security Regularly**
-- Periodically review and test the clean roomâ€™s security configurations.
+- Periodically review and test the clean rooms security configurations.
 
 ### **4. Secure Credentials**
-- Store credentials securely using Snowflakeâ€™s integration with cloud key management services.
+- Store credentials securely using Snowflakes integration with cloud key management services.
 
 ### **5. Monitor Activity**
-- Use Snowflakeâ€™s activity monitoring features to track data access and sharing.
+- Use Snowflake's activity monitoring features to track data access and sharing.
 
 ---
 
