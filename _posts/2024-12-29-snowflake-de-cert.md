@@ -33,7 +33,7 @@ This study guide aims to:
      - [SnowSQL](https://tonyjacobscloudpro.github.io/Jalpc/snowflake/data%20warehousing/command-line%20tools/2025/01/10/snowflake-1-2-snowsql.html)
      - [Snowflake connectors](https://tonyjacobscloudpro.github.io/Jalpc/snowflake/data%20integration/connectors/2025/01/10/snowflake-1-2-connectors.html)
      - [Snowflake drivers](https://tonyjacobscloudpro.github.io/Jalpc/snowflake/data%20integration/drivers/2025/01/10/snowflake-1-2-drivers.html)
-     - [Snowpark]()
+     - [Snowpark](https://tonyjacobscloudpro.github.io/Jalpc/snowflake/data%20engineering/snowpark/2025/01/10/snowflake-1-2-snowpark.html)
      - [SnowCD]()
    - 1.3 Outline Snowflake's catalog & objects
      - [Databases]()
