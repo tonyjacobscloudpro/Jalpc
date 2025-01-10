@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Getting Started with Snowflake SnowSQL"
-date: 2024-12-30
+date: 2025-01-10
 desc: "A detailed guide to using SnowSQL, the command-line client for Snowflake, for seamless data operations and administration."
 keywords: "Snowflake, SnowSQL, Command-Line, Data Warehousing, SQL Queries"
 categories: [Snowflake, Data Warehousing, Command-Line Tools]
