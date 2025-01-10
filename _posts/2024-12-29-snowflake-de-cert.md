@@ -31,7 +31,7 @@ This study guide aims to:
    - 1.2 Outline key Snowflake tools and user interfaces.
      - [Snowsight](https://tonyjacobscloudpro.github.io/Jalpc/snowflake/data%20warehousing/analytics/2024/12/30/snowflake-1-2-snowsight.html)
      - [SnowSQL](https://tonyjacobscloudpro.github.io/Jalpc/snowflake/data%20warehousing/command-line%20tools/2025/01/10/snowflake-1-2-snowsql.html)
-     - [Snowflake connectors]()
+     - [Snowflake connectors](https://tonyjacobscloudpro.github.io/Jalpc/snowflake/data%20integration/connectors/2025/01/10/snowflake-1-2-connectors.html)
      - [Snowflake drivers]()
      - [Snowpark]()
      - [SnowCD]()
