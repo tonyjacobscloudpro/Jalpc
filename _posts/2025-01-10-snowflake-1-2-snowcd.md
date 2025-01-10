@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Using Snowflake's SnowCD Connectivity Diagnostic Tool"
-date: 2024-12-30
+date: 2025-01-10
 desc: "A guide to Snowflake's SnowCD Connectivity Diagnostic Tool for troubleshooting and verifying connections."
 keywords: "Snowflake, SnowCD, Connectivity Diagnostic Tool, Network Troubleshooting"
 categories: [Snowflake, Connectivity, Troubleshooting]
