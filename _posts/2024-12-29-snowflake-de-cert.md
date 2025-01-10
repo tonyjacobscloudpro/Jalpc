@@ -108,6 +108,7 @@ This study guide aims to:
         - [Metadata cache]()
         - [Result cache]()
         - [Warehouse cache]()
+          
 4. **Domain 4.0: Data loading & unloading**
    - 4.1 Define concepts and best practices that should be considered when loading data.
      - [Stages and stage types]()
