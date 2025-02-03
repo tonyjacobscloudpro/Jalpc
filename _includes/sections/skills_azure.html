@@ -6,18 +6,17 @@
                 <span data-i18n="skills.my_skills">Azure Big Data Skills (Over All Score = 85%)</span>
             </h1>
             <style>
-               @keyframes shake {
-                    0% { transform: translateX(0); }
-                    25% { transform: translateX(-5px); }
-                    50% { transform: translateX(5px); }
-                    75% { transform: translateX(-5px); }
-                    100% { transform: translateX(0); }
+                @keyframes shake {
+                    0%, 100% { transform: translateX(0); }
+                    10%, 30%, 50%, 70%, 90% { transform: translateX(-5px); }
+                    20%, 40%, 60%, 80% { transform: translateX(5px); }
                 }
                 .shaking-text {
+                    display: inline-block;
                     animation: shake 0.5s infinite;
                 }
             </style>
-            <a href="your-link-here" class="btn btn-primary btn-sm mt-2 flashing-text">
+            <a href="your-link-here" class="btn btn-primary btn-sm mt-2 shaking-text">
                 View my Azure Data Engineer Skillset
             </a>
         </div>
