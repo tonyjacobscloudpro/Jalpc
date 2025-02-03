@@ -7,9 +7,6 @@ keywords: "Incremental Loading, Azure, Data Integration, ETL, Data Engineering"
 categories: [Azure, Data Engineering]
 tags: [Incremental Loading, Azure Data Factory, ETL, Cloud Computing]
 ---
-
-# ☁️ Tony's Azure Skills Menu
-
 Welcome to **Azure Data Cloud Bistro** – a fine selection of Azure skills, crafted to perfection! 🍽️
 
 ---
@@ -19,7 +16,6 @@ Welcome to **Azure Data Cloud Bistro** – a fine selection of Azure skills, cra
 *A light yet essential starter for any cloud enthusiast.*  
 ✅ [Understanding Azure services, pricing, and best practices.]()  
 ✅ Managing subscriptions, resources, and governance.
-
 
 ### 🔐 Azure Identity & Security Basics
 *A crunchy layer of authentication and authorization.*  
