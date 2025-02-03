@@ -7,9 +7,6 @@ keywords: "Incremental Loading, Azure, Data Integration, ETL, Data Engineering"
 categories: [Azure, Data Engineering]
 tags: [Incremental Loading, Azure Data Factory, ETL, Cloud Computing]
 ---
-Welcome to **Azure Data Cloud Bistro** – a fine selection of Azure skills, crafted to perfection! 🍽️
-
----
 ## **🥗 Appetizers (Fundamentals)**
 
 ### 🌐 Azure Fundamentals
