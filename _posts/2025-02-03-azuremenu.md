@@ -13,6 +13,7 @@ tags: [Incremental Loading, Azure Data Factory, ETL, Cloud Computing]
 *A light yet essential starter for any cloud enthusiast.*  
 ✅ [Understanding Azure services, pricing, and best practices.]()  
 ✅ Managing subscriptions, resources, and governance.
+' '
 
 ### 🔐 Azure Identity & Security Basics
 *A crunchy layer of authentication and authorization.*  
