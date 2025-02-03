@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My Azure Skills as Menu Items"
+title: "Welcome to Azure Data Cloud Bistro – a fine selection of Azure skills, crafted to perfection! 🍽️"
 date: 2025-02-03
 desc: "My Azure Skills as Tasty Menu Items"
 keywords: "Incremental Loading, Azure, Data Integration, ETL, Data Engineering"
