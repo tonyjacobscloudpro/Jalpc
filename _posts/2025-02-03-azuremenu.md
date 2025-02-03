@@ -20,6 +20,7 @@ Welcome to **Azure Data Cloud Bistro** – a fine selection of Azure skills, cra
 ✅ [Understanding Azure services, pricing, and best practices.]()  
 ✅ Managing subscriptions, resources, and governance.
 
+
 ### 🔐 Azure Identity & Security Basics
 *A crunchy layer of authentication and authorization.*  
 ✅ Implementing Azure AD, RBAC, and identity protection.  
