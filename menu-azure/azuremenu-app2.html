@@ -7,63 +7,167 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            max-width: 800px;
-            margin: auto;
-            padding: 20px;
+            line-height: 1.6;
             background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 20px;
         }
-        h1, h2 {
-            text-align: center;
+        .container {
+            max-width: 900px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0px 0px 10px 0px #aaa;
+        }
+        h1, h2, h3 {
+            color: #0078D4;
         }
         .section {
-            background: white;
+            margin-bottom: 20px;
+        }
+        .governance-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 10px;
+        }
+        .governance-table th, .governance-table td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        .governance-table th {
+            background-color: #0078D4;
+            color: white;
+        }
+        .best-practices {
+            background: #e8f4fc;
             padding: 15px;
-            margin: 10px 0;
-            border-radius: 10px;
-            box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+            border-left: 5px solid #0078D4;
+        }
+        a {
+            color: #0078D4;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
         }
     </style>
 </head>
 <body>
-    <h1>Managing Azure Subscriptions, Resources, and Governance</h1>
-    <p>Effective management of Azure subscriptions and resources ensures cost efficiency, security, and compliance within an organization.</p>
-    
-    <div class="section">
-        <h2>Who Manages Azure Subscriptions?</h2>
-        <p>IT administrators, cloud architects, and security professionals oversee subscriptions and governance policies.</p>
-    </div>
-    
-    <div class="section">
-        <h2>What Is Azure Subscription Management?</h2>
-        <p>Azure subscription management involves:</p>
-        <ul>
-            <li>✅ Organizing resources using **Resource Groups**.</li>
-            <li>✅ Controlling access with **Role-Based Access Control (RBAC)**.</li>
-            <li>✅ Managing costs with **Azure Cost Management**.</li>
-            <li>✅ Enforcing policies with **Azure Policy** and **Management Groups**.</li>
-        </ul>
-    </div>
-    
-    <div class="section">
-        <h2>Where Is Subscription Management Applied?</h2>
-        <p>It is used in enterprises, small businesses, and government agencies to maintain efficient cloud operations.</p>
-    </div>
-    
-    <div class="section">
-        <h2>When Should You Manage Subscriptions and Governance?</h2>
-        <p>Azure governance should be implemented from the start and continuously monitored to ensure security and compliance.</p>
-    </div>
-    
-    <div class="section">
-        <h2>How to Manage Azure Subscriptions Effectively?</h2>
-        <p>Follow these best practices:</p>
-        <ul>
-            <li>✅ Establish clear **governance policies** with **Azure Policy**.</li>
-            <li>✅ Use **Management Groups** to organize multiple subscriptions.</li>
-            <li>✅ Set up **budget alerts** in Azure Cost Management.</li>
-            <li>✅ Monitor compliance using **Azure Security Center**.</li>
-            <li>✅ Automate infrastructure using **Azure Resource Manager (ARM) templates**.</li>
-        </ul>
+    <div class="container">
+        <h1>Managing Azure Subscriptions, Resources, and Governance</h1>
+        
+        <div class="section">
+            <h2>1. Understanding Azure Subscriptions</h2>
+            <p>In Azure, a **subscription** is a logical unit that provides access to Azure services and resources. It acts as a boundary for **billing, identity, and resource management**.</p>
+            
+            <h3>Types of Azure Subscriptions</h3>
+            <ul>
+                <li><strong>Pay-As-You-Go</strong> – Charges based on resource usage.</li>
+                <li><strong>Enterprise Agreement</strong> – Designed for large organizations.</li>
+                <li><strong>Azure Free Tier</strong> – Provides free credits and limited services.</li>
+                <li><strong>Microsoft CSP (Cloud Solution Provider)</strong> – Managed by partners.</li>
+            </ul>
+
+            <h3>Subscription Management Best Practices</h3>
+            <ul>
+                <li>Use **multiple subscriptions** to separate environments (Dev, Test, Production).</li>
+                <li>Leverage **Azure Cost Management + Billing** to track expenses.</li>
+                <li>Enable **spending limits** to prevent unexpected charges.</li>
+                <li>Apply **tags** to categorize resources based on projects, departments, or cost centers.</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>2. Managing Azure Resources Efficiently</h2>
+            <p>Azure resources are **computing, storage, networking, and other services** that are deployed within subscriptions. Effective resource management is key to optimizing costs and performance.</p>
+            
+            <h3>Resource Organization Strategies</h3>
+            <ul>
+                <li>Use **Resource Groups** to group related resources.</li>
+                <li>Apply **naming conventions** for consistency (e.g., <code>rg-prod-app1-eastus</code>).</li>
+                <li>Implement **role-based access control (RBAC)** to restrict access.</li>
+                <li>Use **Azure Policy** to enforce compliance.</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>3. Azure Governance and Compliance</h2>
+            <p>Governance in Azure ensures compliance, security, and cost control across subscriptions and resources.</p>
+            
+            <h3>Azure Governance Tools</h3>
+            <table class="governance-table">
+                <tr>
+                    <th>Tool</th>
+                    <th>Purpose</th>
+                </tr>
+                <tr>
+                    <td>Azure Policy</td>
+                    <td>Enforce rules for compliance and resource management.</td>
+                </tr>
+                <tr>
+                    <td>Azure Blueprints</td>
+                    <td>Automate environment setup with predefined templates.</td>
+                </tr>
+                <tr>
+                    <td>Role-Based Access Control (RBAC)</td>
+                    <td>Control access based on user roles.</td>
+                </tr>
+                <tr>
+                    <td>Azure Cost Management</td>
+                    <td>Monitor and optimize cloud spending.</td>
+                </tr>
+                <tr>
+                    <td>Azure Monitor</td>
+                    <td>Track and analyze system performance.</td>
+                </tr>
+            </table>
+        </div>
+
+        <div class="section">
+            <h2>4. Best Practices for Azure Subscription and Governance</h2>
+            
+            <div class="best-practices">
+                <h3>💰 Cost Optimization</h3>
+                <ul>
+                    <li>Use **Reserved Instances** for predictable workloads.</li>
+                    <li>Enable **Auto-shutdown for VMs** to save costs.</li>
+                    <li>Use **Azure Advisor** to get cost-saving recommendations.</li>
+                    <li>Implement **spending alerts** to track and control costs.</li>
+                </ul>
+            </div>
+
+            <div class="best-practices">
+                <h3>🔐 Security and Compliance</h3>
+                <ul>
+                    <li>Enable **Azure Security Center** for continuous monitoring.</li>
+                    <li>Implement **Multi-Factor Authentication (MFA)** for all admin accounts.</li>
+                    <li>Use **private endpoints** to enhance data security.</li>
+                    <li>Regularly audit **activity logs** using Azure Monitor.</li>
+                </ul>
+            </div>
+
+            <div class="best-practices">
+                <h3>📊 Performance Management</h3>
+                <ul>
+                    <li>Use **Azure Monitor and Log Analytics** for real-time insights.</li>
+                    <li>Set up **scaling rules** for applications to handle peak loads.</li>
+                    <li>Optimize storage with **Azure Storage Tiers** (Hot, Cool, Archive).</li>
+                    <li>Use **Azure Traffic Manager** for global load balancing.</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>5. Conclusion</h2>
+            <p>Managing Azure subscriptions and resources efficiently requires strategic planning, cost management, and governance policies. By following best practices and leveraging Azure governance tools, organizations can ensure **security, compliance, and cost-effectiveness**.</p>
+        </div>
+
+        <footer>
+            <p>© 2025 Azure Expert | Learn more at <a href="https://azure.microsoft.com/en-us/" target="_blank">Azure Official Site</a></p>
+        </footer>
     </div>
 </body>
 </html>
