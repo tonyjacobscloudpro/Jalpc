@@ -3,48 +3,73 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Managing Azure Subscriptions, Resources, and Governance</title>
+    <title>Understanding Azure Data Services, Pricing, and Best Practices</title>
     <style>
         body {
             font-family: Arial, sans-serif;
-            line-height: 1.6;
-            background-color: #f4f4f4;
-            color: #333;
+            line-height: 1.8;
+            background-color: #1b1b1b;
+            color: #d4a373;
             margin: 0;
             padding: 20px;
+            text-align: center;
         }
         .container {
             max-width: 900px;
             margin: auto;
-            background: white;
-            padding: 20px;
-            border-radius: 5px;
-            box-shadow: 0px 0px 10px 0px #aaa;
+            background: #252525;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0px 0px 15px rgba(255, 215, 0, 0.2);
         }
-        h1, h2, h3 {
-            color: #0078D4;
+        h1 {
+            font-size: 32px;
+            color: #f4c069;
+            border-bottom: 2px solid #d4a373;
+            padding-bottom: 10px;
+        }
+        h2 {
+            font-size: 26px;
+            color: #e6af65;
+            border-bottom: 1px solid #d4a373;
+            padding-bottom: 5px;
+        }
+        h3 {
+            font-size: 22px;
+            color: #d4a373;
+        }
+        p {
+            font-size: 18px;
+            text-align: justify;
         }
         .section {
             margin-bottom: 20px;
+            background: #2f2f2f;
+            padding: 20px;
+            border-radius: 8px;
         }
-        .governance-table {
+        .pricing-table {
             width: 100%;
             border-collapse: collapse;
             margin-top: 10px;
         }
-        .governance-table th, .governance-table td {
-            border: 1px solid #ddd;
-            padding: 8px;
+        .pricing-table th, .pricing-table td {
+            border: 1px solid #d4a373;
+            padding: 10px;
             text-align: left;
         }
-        .governance-table th {
-            background-color: #0078D4;
-            color: white;
+        .pricing-table th {
+            background-color: #d4a373;
+            color: #1b1b1b;
+        }
+        .pricing-table tr:nth-child(even) {
+            background: #252525;
         }
         .best-practices {
-            background: #e8f4fc;
+            background: #2a2a2a;
             padding: 15px;
-            border-left: 5px solid #0078D4;
+            border-left: 5px solid #d4a373;
+            margin-top: 15px;
         }
         a {
             color: #0078D4;
@@ -53,120 +78,106 @@
         a:hover {
             text-decoration: underline;
         }
+        footer {
+            margin-top: 20px;
+            font-size: 14px;
+            color: #d4a373;
+        }
     </style>
 </head>
 <body>
     <div class="container">
-        <h1>Managing Azure Subscriptions, Resources, and Governance</h1>
+        <h1>Understanding Azure Data Services, Pricing, and Best Practices</h1>
         
         <div class="section">
-            <h2>1. Understanding Azure Subscriptions</h2>
-            <p>In Azure, a **subscription** is a logical unit that provides access to Azure services and resources. It acts as a boundary for **billing, identity, and resource management**.</p>
-            
-            <h3>Types of Azure Subscriptions</h3>
+            <h2>🥂 Appetizer - Azure Data Services Overview</h2>
+            <p>Microsoft Azure offers a variety of **data services** for different workloads, including **relational databases, NoSQL databases, data lakes, and data warehousing**. Some key services include:</p>
             <ul>
-                <li><strong>Pay-As-You-Go</strong> – Charges based on resource usage.</li>
-                <li><strong>Enterprise Agreement</strong> – Designed for large organizations.</li>
-                <li><strong>Azure Free Tier</strong> – Provides free credits and limited services.</li>
-                <li><strong>Microsoft CSP (Cloud Solution Provider)</strong> – Managed by partners.</li>
-            </ul>
-
-            <h3>Subscription Management Best Practices</h3>
-            <ul>
-                <li>Use **multiple subscriptions** to separate environments (Dev, Test, Production).</li>
-                <li>Leverage **Azure Cost Management + Billing** to track expenses.</li>
-                <li>Enable **spending limits** to prevent unexpected charges.</li>
-                <li>Apply **tags** to categorize resources based on projects, departments, or cost centers.</li>
+                <li><strong>Azure SQL Database</strong> – Fully managed relational database.</li>
+                <li><strong>Azure Cosmos DB</strong> – NoSQL database with global distribution.</li>
+                <li><strong>Azure Data Lake</strong> – Scalable storage for big data analytics.</li>
+                <li><strong>Azure Synapse Analytics</strong> – Enterprise data warehousing solution.</li>
+                <li><strong>Azure Blob Storage</strong> – Cost-effective object storage.</li>
+                <li><strong>Azure Databricks</strong> – Apache Spark-based analytics platform.</li>
             </ul>
         </div>
 
         <div class="section">
-            <h2>2. Managing Azure Resources Efficiently</h2>
-            <p>Azure resources are **computing, storage, networking, and other services** that are deployed within subscriptions. Effective resource management is key to optimizing costs and performance.</p>
+            <h2>🍷 Main Course - Azure Data Services Pricing</h2>
+            <p>Azure data services follow different pricing models based on factors such as compute, storage, and network usage.</p>
             
-            <h3>Resource Organization Strategies</h3>
-            <ul>
-                <li>Use **Resource Groups** to group related resources.</li>
-                <li>Apply **naming conventions** for consistency (e.g., <code>rg-prod-app1-eastus</code>).</li>
-                <li>Implement **role-based access control (RBAC)** to restrict access.</li>
-                <li>Use **Azure Policy** to enforce compliance.</li>
-            </ul>
-        </div>
-
-        <div class="section">
-            <h2>3. Azure Governance and Compliance</h2>
-            <p>Governance in Azure ensures compliance, security, and cost control across subscriptions and resources.</p>
-            
-            <h3>Azure Governance Tools</h3>
-            <table class="governance-table">
+            <table class="pricing-table">
                 <tr>
-                    <th>Tool</th>
-                    <th>Purpose</th>
+                    <th>Service</th>
+                    <th>Pricing Model</th>
+                    <th>Approximate Cost</th>
                 </tr>
                 <tr>
-                    <td>Azure Policy</td>
-                    <td>Enforce rules for compliance and resource management.</td>
+                    <td>Azure SQL Database</td>
+                    <td>Per DTU or vCore-based</td>
+                    <td>Starts from $5/month</td>
                 </tr>
                 <tr>
-                    <td>Azure Blueprints</td>
-                    <td>Automate environment setup with predefined templates.</td>
+                    <td>Azure Cosmos DB</td>
+                    <td>Request Units (RU/s)</td>
+                    <td>Starts from $24/month</td>
                 </tr>
                 <tr>
-                    <td>Role-Based Access Control (RBAC)</td>
-                    <td>Control access based on user roles.</td>
+                    <td>Azure Synapse Analytics</td>
+                    <td>Per TB per month</td>
+                    <td>Starts from $4.80 per TB</td>
                 </tr>
                 <tr>
-                    <td>Azure Cost Management</td>
-                    <td>Monitor and optimize cloud spending.</td>
-                </tr>
-                <tr>
-                    <td>Azure Monitor</td>
-                    <td>Track and analyze system performance.</td>
+                    <td>Azure Blob Storage</td>
+                    <td>Per GB per month</td>
+                    <td>Starts from $0.018 per GB</td>
                 </tr>
             </table>
+
+            <p>For accurate and up-to-date pricing, visit the <a href="https://azure.microsoft.com/en-us/pricing/calculator/" target="_blank">Azure Pricing Calculator</a>.</p>
         </div>
 
         <div class="section">
-            <h2>4. Best Practices for Azure Subscription and Governance</h2>
+            <h2>🍰 Dessert - Best Practices for Azure Data Services</h2>
             
             <div class="best-practices">
-                <h3>💰 Cost Optimization</h3>
+                <h3>💡 Cost Optimization</h3>
                 <ul>
-                    <li>Use **Reserved Instances** for predictable workloads.</li>
-                    <li>Enable **Auto-shutdown for VMs** to save costs.</li>
-                    <li>Use **Azure Advisor** to get cost-saving recommendations.</li>
-                    <li>Implement **spending alerts** to track and control costs.</li>
+                    <li>Use **Azure Reserved Instances** for long-term cost savings.</li>
+                    <li>Choose **auto-scaling** to optimize compute resources dynamically.</li>
+                    <li>Store cold data in **Azure Blob Storage (Cool or Archive tier)**.</li>
+                    <li>Enable **compression and indexing** to reduce database storage costs.</li>
                 </ul>
             </div>
 
             <div class="best-practices">
-                <h3>🔐 Security and Compliance</h3>
+                <h3>🚀 Performance Tuning</h3>
                 <ul>
-                    <li>Enable **Azure Security Center** for continuous monitoring.</li>
-                    <li>Implement **Multi-Factor Authentication (MFA)** for all admin accounts.</li>
-                    <li>Use **private endpoints** to enhance data security.</li>
-                    <li>Regularly audit **activity logs** using Azure Monitor.</li>
+                    <li>Use **indexing and partitioning** for high-performance queries.</li>
+                    <li>Leverage **read replicas** to distribute read workloads.</li>
+                    <li>Optimize queries using **Azure SQL Performance Insights**.</li>
+                    <li>Use **Azure Cache for Redis** to improve response times.</li>
                 </ul>
             </div>
 
             <div class="best-practices">
-                <h3>📊 Performance Management</h3>
+                <h3>🔒 Security Best Practices</h3>
                 <ul>
-                    <li>Use **Azure Monitor and Log Analytics** for real-time insights.</li>
-                    <li>Set up **scaling rules** for applications to handle peak loads.</li>
-                    <li>Optimize storage with **Azure Storage Tiers** (Hot, Cool, Archive).</li>
-                    <li>Use **Azure Traffic Manager** for global load balancing.</li>
+                    <li>Enable **Azure Defender for SQL** for threat protection.</li>
+                    <li>Use **private endpoints** to restrict data access.</li>
+                    <li>Encrypt data at rest and in transit using **Azure Key Vault**.</li>
+                    <li>Implement **RBAC (Role-Based Access Control)** for data governance.</li>
                 </ul>
             </div>
         </div>
 
         <div class="section">
-            <h2>5. Conclusion</h2>
-            <p>Managing Azure subscriptions and resources efficiently requires strategic planning, cost management, and governance policies. By following best practices and leveraging Azure governance tools, organizations can ensure **security, compliance, and cost-effectiveness**.</p>
+            <h2>🍾 Closing Notes</h2>
+            <p>Azure provides a **comprehensive suite of data services** for transactional databases to big data analytics. Understanding pricing models and implementing **best practices** will ensure **cost-effective, high-performance, and secure data solutions**.</p>
         </div>
 
         <footer>
-            <p>© 2025 Azure Expert | Learn more at <a href="https://azure.microsoft.com/en-us/" target="_blank">Azure Official Site</a></p>
+            <p>© 2025 Azure Expert | More info at <a href="https://azure.microsoft.com/" target="_blank">Azure Official Site</a></p>
         </footer>
     </div>
 </body>
